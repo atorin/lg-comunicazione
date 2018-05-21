@@ -1,11 +1,10 @@
-**ModI2014**
+**Linee Guida Comunicazione**
 
-Modello di interoperabilità 2018 per la Pubblica Amministrazione
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Linee Guida di Comunicazione
+++++++++++++++++++++++++++++
 
 
 .. toctree::
    :maxdepth: 2
 
-   doc/doc_01_cap_00
-   doc/doc_02_cap_00
+   doc/doc_01
