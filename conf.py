@@ -7,8 +7,8 @@ settings_copyright_copyleft = "Agenzia per l'Italia Digitale"
 settings_editor_name = "Agenzia per l'Italia Digitale"
 settings_doc_version = 'Bozza in consultazione'
 settings_doc_release = 'Bozza in consultazione'
-settings_basename = 'comunicazione-lg'
-settings_file_name = 'comunicazione-lg'
+settings_basename = 'comunica-lg'
+settings_file_name = 'comunica-lg'
 settings_discourse_url = 'https://forum.italia.it/'
 
 # -- No need to change below here
