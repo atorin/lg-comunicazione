@@ -3,23 +3,23 @@ La comunicazione digitale per la promozione dei servizi.
 
 Anche per l’informazione di servizio il cittadino “mette sul podio”  i canali di comunicazione digitali. In questi canali nasce, cresce e si rafforza la reputazione del tuo ente e dei servizi che offre, è fondamentale saperli gestire al meglio per creare un vero rapporto di fiducia e di dialogo tra cittadino a PA.
 
-**DEVI**
+.. admonition:: DEVI
  
-Prevedere una strategia di comunicazione digitale del servizio che sia coerente con la strategia e la comunicazione integrata dell’ente e  in linea con gli altri canali di comunicazione.
+   Prevedere una strategia di comunicazione digitale del servizio che sia coerente con la strategia e la comunicazione integrata            dell’ente e  in linea con gli altri canali di comunicazione.
  
-**DEVI**
+.. admonition:: DEVI
  
-Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promuovere dei tuoi servizi digitali. Il piano editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della mensa etc).
+   Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promuovere dei tuoi servizi digitali. Il piano          editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di            comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di      scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della        mensa etc).
 
-**DOVRESTI**
+.. admonition:: DOVRESTI
 
-Rafforzare e valorizzare la tua comunicazione con attività di promozione sui canali online. Ricordati di non sottovalutare la promozione sui canali digitali, la pubblicità online ti aiuta a diffondere notizie sul tuo servizio e a renderlo più interessante per il tuo target. Pensa ad esempio ad una campagna banner, SEO e SEM.
+   Rafforzare e valorizzare la tua comunicazione con attività di promozione sui canali online. Ricordati di non sottovalutare la            promozione sui canali digitali, la pubblicità online ti aiuta a diffondere notizie sul tuo servizio e a renderlo più interessante per    il tuo target. Pensa ad esempio ad una campagna banner, SEO e SEM.
 
-**POTRESTI**
+.. admonition:: POTRESTI
  
-Promuovere servizi e progetti anche attraverso strategie di comunicazione cosiddette non convenzionali, come il viral marketing o il digital storytelling.
-Il sito web istituzionale.
-Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale per presentare le tue attività e il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di organizzare sempre i contenuti in modo chiaro, semplice e trasparente.
+   Promuovere servizi e progetti anche attraverso strategie di comunicazione cosiddette non convenzionali, come il viral marketing o il    digital storytelling.
+   Il sito web istituzionale.
+   Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale per presentare le tue attività e il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di organizzare sempre i contenuti in modo chiaro, semplice e trasparente.
 Il sito è fondamentale per informare l’utente e descrivere attività e servizi, promuovere le novità a essi collegate con notizie, focus, infografiche, materiali di approfondimento. Ricordati di trovare sempre un equilibrio tra uno stile di comunicazione che catturi l’attenzione del lettore e gli approfondimenti sulle caratteristiche e delle funzionalità dei servizi.
 
 **DEVI**
