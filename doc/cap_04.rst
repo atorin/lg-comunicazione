@@ -1,5 +1,5 @@
 Gli strumenti della comunicazione
-=================================
+----------------------------------
 
 
 Il ruolo dei media: il digitale fa notizia.
