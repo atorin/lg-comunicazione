@@ -41,7 +41,7 @@ Utilizzare i dati di analisi di scenario e studiare i target di riferimento dei 
 
 Redigere un piano di comunicazione relativo alla promozione dei servizi digitali che comprenda da subito tutte le attività di transizione dall’analogico al digitale previste dalla tua amministrazione.
 
-DOVE TI TROVI? Analizza e confronta il contesto e il servizio.
+Dove ti trovi? Analizza e confronta il contesto e il servizio.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dedica del tempo all’analisi del servizio che offri al cittadino o alle imprese, e ai vantaggi che comporta. Devi capire tu per primo le caratteristiche del servizio - anche quelle tecniche - per poterlo comunicare al meglio. Fai come faresti con un’auto da comprare: valuta gli aspetti positivi da valorizzare e tieni presente quelli critici.
@@ -70,7 +70,7 @@ Fai in modo che l’Ufficio comunicazione diventi parte del gruppo di lavoro tec
 Analizzare e misurare la risposta del cittadino rispetto al servizio offerto: comprensione, utilizzo e soddisfazione. Puoi legare l’ascolto del target alle attività di monitoraggio per migliorare o modificare la tua strategia in modo da capire da subito se nascono nuove evidenze.  
 
 
-COSA VUOI OTTENERE? Definisci gli obiettivi di comunicazione.
+Cosa vuoi ottenere? Definisci gli obiettivi di comunicazione.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gli obiettivi di comunicazione, nel caso dei servizi digitali, riguardano: la conoscenza del servizio, il vantaggio percepito dal cittadino nel suo utilizzo, l’aumento della diffusione e la soddisfazione degli utenti.
@@ -101,7 +101,7 @@ Condividere sempre gli obiettivi di comunicazione e promozione con tutto il grup
 Evidenziare, attraverso la comunicazione, i progressi fatti dalla tua amministrazione grazie alla transizione al digitale e fare così brand awareness. Migliorerai la percezione della PA da parte di cittadini e opinione pubblica. Ricordati di non far prevalere questa attività sulla comunicazione di servizio al cittadino.
 
 
-A CHI VUOI PARLARE? Analizza i destinatari della tua azione di comunicazione.
+A chi vuoi parlare? Analizza i destinatari della tua azione di comunicazione.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per promuovere al meglio un servizio digitale è fondamentale sapere a chi è indirizzato, devi individuare e conoscere nel dettaglio il tuo target per capire come raggiungerlo.
@@ -128,7 +128,7 @@ Ricordare che il target non è statico e si modifica nel corso del tempo, per qu
 
 Svolgere un’indagine di mercato, prima del lancio di un servizio o di una serie di servizi, ti aiuterà a individuare le caratteristiche e le abitudini del tuo target soprattutto se è molto variegato.
 
-QUANTO PUOI SPENDERE? Definisci il budget.
+Quanto puoi spendere? Definisci il budget.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 È indispensabile pianificare un budget che sia sostenibile rispetto al bilancio della tua organizzazione e che venga impiegato efficacemente per raggiungere gli obiettivi di comunicazione. Ricordati che esistono diversi fondi per finanziare le attività di comunicazione su questi temi, verifica quali sono quelli che hai a disposizione. Se non hai budget non scoraggiarti e metti in moto le idee. Si può fare una buona ed efficace comunicazione anche senza molte risorse economiche.
@@ -145,7 +145,7 @@ Sensibilizzare i decisori sulla necessità di allocare fondi sulla promozione de
 
 Fai un’analisi costi-benefici, ti aiuterà a determinare le dimensioni del risultato minimo che dovrai raggiungere in funzione del budget allocato.
 
-DOVE VUOI DIRLO? Scegli i mezzi di comunicazione e definisci una strategia media.
+Dove vuoi dirlo? Scegli i mezzi di comunicazione e definisci una strategia media.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 Una volta definiti target e budget è il  momento di pianificare i mezzi più adatti a veicolare il tuo messaggio ai cittadini e alle imprese. 
@@ -166,7 +166,7 @@ Definire un piano temporale in cui programmare le attività di comunicazione, ri
 POTRESTI 
 Utilizzare, se hai un budget limitato, un media mix focalizzato su attività sul territorio che hanno un costo minore (ad es. attività di media relation) e che includa strumenti digitali. A prescindere dalle risorse a disposizione cerca sempre di raggiungere tutti i segmenti del tuo target.
 
-COSA VUOI DIRE? Definisci il messaggio e lo stile della comunicazione: cosa non puoi dimenticarti di raccontare.
+Cosa vuoi dire? Definisci il messaggio e lo stile della comunicazione: cosa non puoi dimenticarti di raccontare.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hai messo a fuoco gli obiettivi e definito il target, ora è il momento di scegliere il contenuto e lo stile della tua comunicazione. Questo è il fulcro di tutto, hai una grande responsabilità.
@@ -202,7 +202,7 @@ Coinvolgere il tuo interlocutore: essere creativo, persuasivo, ironico e autoiro
  
 Condividere pubblicamente i dati sull’utilizzo dei nuovi servizi, fai in modo che il cittadino si senta parte del percorso di modernizzazione dell’amministrazione. Ricordati di non essere autoreferenziale!
 
-COME È ANDATA? Misura l’efficacia delle tue attività di comunicazione.
+Come è andata? Misura l’efficacia delle tue attività di comunicazione.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 è fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fase. Hai diverse possibilità a disposizione in base agli strumenti che hai deciso di utilizzare; misura sempre la tua  comunicazione.
@@ -220,7 +220,7 @@ Creare e alimentare dei report con  informazioni provenienti da uffici che hanno
  
 Consultare il tuo target con brevi questionari, potrai valutare in modo diretto l’efficacia e la diffusione delle azioni di comunicazione che hai messo in campo: non aver paura di chiedere ai tuoi interlocutori quali sono state le mancanze rilevate nella fase appena conclusa, le informazioni che otterrai ti serviranno per orientare le attività future.
 
-QUALCOSA È ANDATO STORTO. Gestione della crisi nella comunicazione.
+Qualcosa è andato storto. Gestione della crisi nella comunicazione.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amministrazione  in situazioni di emergenza relative alla fruizione di un servizio. Sicuramente ti capiterà di dover gestire critiche derivanti da incomprensioni, problemi tecnici o malfunzionamento del servizio. Non spaventarti! la comunicazione, se gestita bene, ti aiuterà ad affrontare anche questa situazione
