@@ -1,5 +1,5 @@
 La comunicazione diretta: URP, canali fisici ed eventi sul territorio.
-======================================================================
+-----------------------------------------------------------------------
 
 La comunicazione attraverso canali fisici rappresenta un punto di incontro fondamentale per avvicinare i cittadini e le imprese alla pubblica amministrazione, sia in fase di lancio sia in fase di aggiornamento o miglioramento di un servizio.
 
