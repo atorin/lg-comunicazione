@@ -1,5 +1,5 @@
 4. La comunicazione digitale per la promozione dei servizi.
---------------------------------------------------------
+------------------------------------------------------------
 
 Anche per l’informazione di servizio il cittadino “mette sul podio”  i canali di comunicazione digitali. In questi canali nasce, cresce e si rafforza la reputazione del tuo ente e dei servizi che offre, è fondamentale saperli gestire al meglio per creare un vero rapporto di fiducia e di dialogo tra cittadino a PA.
 
@@ -18,21 +18,25 @@ Anche per l’informazione di servizio il cittadino “mette sul podio”  i can
 .. admonition:: POTRESTI
  
    Promuovere servizi e progetti anche attraverso strategie di comunicazione cosiddette non convenzionali, come il viral marketing o il    digital storytelling.
-   Il sito web istituzionale.
-   Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale per presentare le tue attività e il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di organizzare sempre i contenuti in modo chiaro, semplice e trasparente.
+   
+   
+Il sito web istituzionale.
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale    per presentare le tue attività e il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di      organizzare sempre i contenuti in modo chiaro, semplice e trasparente.
 Il sito è fondamentale per informare l’utente e descrivere attività e servizi, promuovere le novità a essi collegate con notizie, focus, infografiche, materiali di approfondimento. Ricordati di trovare sempre un equilibrio tra uno stile di comunicazione che catturi l’attenzione del lettore e gli approfondimenti sulle caratteristiche e delle funzionalità dei servizi.
 
-**DEVI**
+.. admonition:: DEVI
  
-Aggiornare sempre il sito con delle notizie, soprattutto nella fase di lancio di un nuovo servizio e della sua campagna di comunicazione. Aggiungi contenuti multimediali come foto o infografiche che supportino e rafforzino la narrazione.
+   Aggiornare sempre il sito con delle notizie, soprattutto nella fase di lancio di un nuovo servizio e della sua campagna di              comunicazione. Aggiungi contenuti multimediali come foto o infografiche che supportino e rafforzino la narrazione.
 
-**DEVI**
+.. admonition:: DEVI*
  
-Descrivere in maniera chiara ed esauriente i servizi inserendo tutte le informazioni necessarie per potervi accedere, ricevere assistenza, in modo da accompagnare l’utente in ogni fase di utilizzo del servizio stesso.
+   Descrivere in maniera chiara ed esauriente i servizi inserendo tutte le informazioni necessarie per potervi accedere, ricevere          assistenza, in modo da accompagnare l’utente in ogni fase di utilizzo del servizio stesso.
 
-**DEVI**
+.. admonition:: DEVI
  
-Prevedere degli approfondimenti per spiegare ai cittadini e ai media i processi più complessi attraverso, ad esempio, l’utilizzo delle FAQ (domande frequenti con risposte preimpostate). 
+   Prevedere degli approfondimenti per spiegare ai cittadini e ai media i processi più complessi attraverso, ad esempio, l’utilizzo        delle FAQ (domande frequenti con risposte preimpostate). 
 
 **DOVRESTI**
 
@@ -56,3 +60,34 @@ Il sito istituzionale non è l’unico strumento che puoi utilizzare sul web, pu
 I siti tematici ti aiutano a indirizzare la comunicazione verso determinati target rendendo più semplice e diretta la promozione e la comprensione del servizio. (Ad es. spid.gov.it)
 
 La e-mail (newsletter) è uno strumento molto efficace ed utile per dialogare costantemente con l’utente ed aggiornarlo in modo periodico.
+
+Siti tematici o Landing page
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Crea un sito tematico solo se hai un’esigenza di comunicazione orientata al servizio che non trova adeguato spazio sul tuo sito istituzionale. Se lanci un nuovo servizio per cui riscontri l’esigenza di informare e assistere i cittadini puoi creare un sito attraverso il quale accompagnare il cittadino nella familiarizzazione con le nuove funzionalità e anche con le attività di assistenza. Se digitalizzi i servizi di un asset strategico delle tue attività, come la sanità, il turismo, la mobilità puoi prevedere un ambiente web dedicato.
+
+Sfrutta invece le funzionalità della Landing page per promuovere le funzionalità o una call to action sul servizio (come l’iscrizione, la partecipazione ad un evento, l’iscrizione ad un servizio di alert, ad esempio). 
+
+La landing page contiene una descrizione chiara e accattivante delle caratteristiche del servizio insieme all’invito all’azione. Gli obiettivi della landing page sono:
+
+- informazione/promozione di uno specifico servizio/attività;
+
+- lead generation/raccolta contatti;
+
+- conversione.
+
+**DEVI**
+
+Assicurarti che il tuo ambiente online contenga in maniera chiara e semplice informazioni su tutto il ciclo del servizio (come richiederlo, dove andare, come avere assistenza, etc);
+
+**DOVRESTI**
+
+Monitorare il “tasso di conversione” (il numero di clic al servizio, il numero di adesioni e/o abbonamenti al servizio) con gli strumenti di analytics (link sezione monitoraggio).
+
+**POTRESTI** 
+
+Prevedere una sezione dedicata al materiale promozionale (press kit, infografiche)
+
+La Newsletter e le e-mail.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
