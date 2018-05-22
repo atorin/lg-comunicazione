@@ -29,9 +29,9 @@ La Comunicazione è la leva strategica per la promozione dei servizi pubblici di
 
 Nei paragrafi dedicati troverai indicazioni utili per affrontare ciascuna di queste fasi. Ricordati e ricorda  che la comunicazione è parte integrante della strategia di sviluppo e lancio di un servizio digitale.
 
-**DEVI**
+.. admonition::DEVI
 
-Definire il Piano di comunicazione sulla base degli obiettivi dell’organizzazione e delle caratteristiche del servizio o dei servizi da promuovere.
+   Definire il Piano di comunicazione sulla base degli obiettivi dell’organizzazione e delle caratteristiche del servizio o dei servizi da promuovere.
 
 **DOVRESTI**
 
