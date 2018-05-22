@@ -10,16 +10,17 @@ La comunicazione agli sportelli
 
 Spesso, è il primo punto di contatto tra  amministrazione e cittadini, luogo in cui si raccolgono i bisogni e i feedback degli utenti. È un canale privilegiato per formare e supportare i cittadini con meno competenze digitali. Condividi gli obiettivi strategici delle attività di comunicazione relative alla promozione dei servizi digitali con il personale impegnato agli sportelli, il loro supporto è di fondamentale importanza in  tutte le fasi di promozione del servizio.
 
-**DEVI** 
-Mettere a disposizione degli sportelli al cittadino materiale informativo e promozionale.
+.. admonition:: DEVI
+   
+   Mettere a disposizione degli sportelli al cittadino materiale informativo e promozionale.
 
-**DOVRESTI**
+.. admonition:: DOVRESTI
 
 Organizzare dei momenti di confronto durante i quali illustrare ai cittadini e alle imprese i servizi digitali e i loro vantaggi. Individua il momento di maggior afflusso e organizza un corner dedicato all’informazione e alla promozione con personale adeguatamente formato per rispondere alle domande dei cittadini.
 
-**POTRESTI**
+.. admonition:: POTRESTI
 
-Organizzare workshop e attività di formazione. Potresti coinvolgere organizzazioni, associazioni e altri soggetti che possano aiutare i cittadini - anche operativamente - a comprendere al meglio l’utilizzo dei servizi digitali.
+   Organizzare workshop e attività di formazione. Potresti coinvolgere organizzazioni, associazioni e altri soggetti che possano aiutare    i cittadini - anche operativamente - a comprendere al meglio l’utilizzo dei servizi digitali.
 
 Gli eventi
 ~~~~~~~~~~
@@ -36,18 +37,18 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
 
 - pianifica la comunicazione dell’evento, identificando destinatari e canali, e costruendo contenuti chiari, diretti e coinvolgenti in tutte le sue fasi (prima, durante e dopo).
 
-**DEVI**
+.. admonition:: DEVI
  
-Scegliere il luogo in base al target e agli obiettivi che ti sei dato in modo da favorire la più ampia partecipazione. Ricorda che il cuore dell’evento deve essere la sperimentazione del servizio (anche se in fase di test)
+   Scegliere il luogo in base al target e agli obiettivi che ti sei dato in modo da favorire la più ampia partecipazione. Ricorda che il    cuore dell’evento deve essere la sperimentazione del servizio (anche se in fase di test)
 
-**DOVRESTI**
+.. admonition:: DOVRESTI
 
-Prevedere uno streaming dell’evento da diffondere attraverso i tuoi canali digitali cercando sempre di interagire con gli utenti collegati in remoto.
+   Prevedere uno streaming dell’evento da diffondere attraverso i tuoi canali digitali cercando sempre di interagire con gli utenti        collegati in remoto.
 
-**DOVRESTI**
+.. admonition:: DOVRESTI
 
-Invitare a partecipare anche le amministrazioni limitrofe, o comunque tutti i soggetti interessati dal lancio del tuo servizio in modo da avviare percorsi di collaborazione e condivisione delle esperienze.
+   Invitare a partecipare anche le amministrazioni limitrofe, o comunque tutti i soggetti interessati dal lancio del tuo servizio in        modo da avviare percorsi di collaborazione e condivisione delle esperienze.
 
-**POTRESTI**
+.. admonition:: POTRESTI
  
-Coinvolgere dei media partner o degli influencer che ti supportino nella diffusione ampliandone la portata. 
+   Coinvolgere dei media partner o degli influencer che ti supportino nella diffusione ampliandone la portata. 
