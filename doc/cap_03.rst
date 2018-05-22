@@ -33,9 +33,8 @@ Nei paragrafi dedicati troverai indicazioni utili per affrontare ciascuna di que
 
    Definire il Piano di comunicazione sulla base degli obiettivi dell’organizzazione e delle caratteristiche del servizio o dei servizi    da promuovere.
 
-**DOVRESTI**
-
-Utilizzare i dati di analisi di scenario e studiare i target di riferimento dei tuoi servizi per tarare al meglio i tuoi obiettivi
+.. error:: Dovresti
+        Utilizzare i dati di analisi di scenario e studiare i target di riferimento dei tuoi servizi per tarare al meglio i tuoi                 obiettivi
 
 **POTRESTI**
 
