@@ -30,7 +30,7 @@ Il sito è fondamentale per informare l’utente e descrivere attività e serviz
  
    Aggiornare sempre il sito con delle notizie, soprattutto nella fase di lancio di un nuovo servizio e della sua campagna di              comunicazione. Aggiungi contenuti multimediali come foto o infografiche che supportino e rafforzino la narrazione.
 
-.. admonition:: DEVI*
+.. admonition:: DEVI
  
    Descrivere in maniera chiara ed esauriente i servizi inserendo tutte le informazioni necessarie per potervi accedere, ricevere          assistenza, in modo da accompagnare l’utente in ogni fase di utilizzo del servizio stesso.
 
