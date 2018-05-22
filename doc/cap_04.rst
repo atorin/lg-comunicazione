@@ -265,3 +265,6 @@ Raccogliere i tuoi contenuti video in playlist tematiche, con un‘attenzione pa
 Verificare che non esista già un video tutorial che spiega in maniera chiara e utile le caratteristiche o le funzionalità del tuo servizio e valorizzarlo sui tuoi canali sociali.
 
 
+Le App di messaggistica istantanea (Whatsapp e Telegram)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
