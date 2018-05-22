@@ -8,3 +8,4 @@ Linee Guida di Comunicazione
    :maxdepth: 2
 
    doc/cap_01
+   doc/cap_02
