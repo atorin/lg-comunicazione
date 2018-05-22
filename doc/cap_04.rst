@@ -61,6 +61,7 @@ I siti tematici ti aiutano a indirizzare la comunicazione verso determinati targ
 
 La e-mail (newsletter) è uno strumento molto efficace ed utile per dialogare costantemente con l’utente ed aggiornarlo in modo periodico.
 
+
 Siti tematici o Landing page
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -88,6 +89,7 @@ Monitorare il “tasso di conversione” (il numero di clic al servizio, il nume
 
 Prevedere una sezione dedicata al materiale promozionale (press kit, infografiche)
 
+
 La Newsletter e le e-mail.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -110,6 +112,7 @@ Associare alle notizie dell’amministrazione anche notizie di fonti terze (da g
 **POTRESTI** 
 
 Associare all’invio periodico della newsletter l’apertura di un canale Telegram come ulteriore canale di diffusione delle informazioni più operative relative alla promozione dei tuoi servizi (ad es scadenze di pagamento).
+
 
 I social media
 ~~~~~~~~~~~~~~~
@@ -144,6 +147,7 @@ Prevedere degli appuntamenti fissi nella programmazione creando ad esempio delle
 - coinvolgi l’utente, ad esempio con news sul servizio, giornate tematiche, concorsi, contest (il racconto della tua città, la vetrina più bella per promuovere i servizi digitali presso il settore del commercio);
 - affronti un tema con uno stile trasversale.
 
+
 Facebook
 ^^^^^^^^
 
@@ -175,6 +179,7 @@ Usa messenger come canale di customer care, associandolo a una chatbot per indir
 
 Sfruttare gli strumenti di advertising di Facebook (come business manager, gestione inserzioni, creative hub, app gestione inserzioni) per promuovere servizi attraverso post personalizzati e ottimizzati in grado di intercettare i bisogni informativi dei cittadini.
 
+
 Twitter
 ^^^^^^^
 
@@ -205,7 +210,42 @@ Utilizzare Twitter per dialogare con gli utenti prevenendo le criticità. Puoi o
 
 Sfruttare la funzione “momento” per raccontare tutto quello che è inerente al servizio che devi promuovere oppure a un evento collegato.
 
+
 Instagram
 ^^^^^^^^^^
 
+Con Instagram puoi raccontare per immagini il tuo servizio. Puoi scegliere, ad esempio, una comunicazione istituzionale che accompagni la sua evoluzione, nella quale le immagini ti aiutano a raccontare caratteristiche e funzioni. Oppure puntare su un tone of voice più creativo e informale che (ad esempio attraverso immagini evocative, video, storie) accresca l’empatia del tuo target verso il servizio. Sfrutta Instagram per promuovere le varie fasi tuo servizio, per raccontare le sue funzionalità con testimonianze di chi lo usa, fare dirette che accompagnino, ad esempio gli eventi che hai organizzato.
 
+**DEVI**
+
+Scegliere una linea narrativa con diverse tipologie di contenuto, che supporti la comunicazione sul tuo servizio con un racconto dal taglio più trasversale. Ricordati di associare alla tua linea narrativa l’hashtag del tuo servizio e gli hashtag che ti aiutano a diffondere nelle timeline degli utenti il tuo contenuto.
+
+**DOVRESTI**
+
+Sfruttare Instagram per la promozione dei tuoi servizi, attraverso post sponsorizzati che puoi attivare collegandoti ala pagina istituzionale di Facebook e utilizzando le funzionalità di advertising connesse. 
+
+**POTRESTI**
+
+Sfruttare Instagram per le tue Digital PR. Contatta gli influencer più adatti alla tua campagna di promozione e definisci con loro una strategia di storytelling del tuo servizio con toni non convenzionali (utilizzando storie o video personali dell’influencer, in eventi glamour, etc). 
+
+
+LinkedIN
+^^^^^^^^^
+
+LinkedIN ti consente di promuovere il tuo servizio nelle community professionali. Puoi creare una pagina aziendale su LinkedIN, con cui diffondere contenuti dal taglio più tecnico attraverso infografiche, approfondimenti, presentazioni di dati o di eventi.
+
+**DEVI** 
+
+Sfruttare il potenziale delle comunità professionali per alimentare la promozione sugli aspetti funzionali del tuo servizio e il dialogo sugli aspetti ancora da perfezionare. Se hai un luogo in cui gli sviluppatori già si confrontano (su GitHUB o su Forum.italia.it), puoi usare linkedin per farlo conoscere allargando così la tua community.
+
+**DOVRESTI**
+
+Invitare il personale della tua amministrazione ad essere il primo testimonial del tuo servizio, ad interagire con gli altri professionisti e a supportare la promozione e il racconto del servizio. Condividere contenuti variegati (infografiche, video, whitepaper, ecc.) con un taglio tecnico, rispondendo ai bisogni di un pubblico professionale.
+
+**POTRESTI**
+
+LinkedIN è integrato con SlideShare, grazie a questa funzionalità puoi promuovere presentazioni o tutorial che illustrino le funzionalità del servizio, le sue caratteristiche e gli sviluppi programmati oppure puoi rendere sempre disponibili i materiali di un evento.
+
+
+YouTube
+^^^^^^^^
