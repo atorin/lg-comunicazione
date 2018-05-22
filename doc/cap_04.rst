@@ -177,3 +177,35 @@ Sfruttare gli strumenti di advertising di Facebook (come business manager, gesti
 
 Twitter
 ^^^^^^^
+
+Twitter è il mezzo più efficace per “ascoltare” le conversazioni del tuo target, analizzare i temi più influenti del giorno, promuovere e diffondere il tuo servizio in maniera agile e veloce con gli utenti.
+
+Tra i social, è quello più efficace per raccontare i servizi sfruttando le tematiche che suscitano maggiore interesse (trending topic). 
+
+Puoi utilizzare il profilo Twitter per promuovere un dialogo relativo ai tuoi servizi soprattutto con: altre amministrazioni, associazioni e imprese, media e opinion leaders.
+Quando crei un tweet per promuovere i tuoi servizi ricordati di:
+
+- scegliere un linguaggio semplice ma conciso, legato ad hashtag di tendenza e hashtag che invece caratterizzano il servizio;
+
+- corredarlo con un link, un’immagine o una card in linea creativa con la tua promozione, menzionando quegli account che ritieni più influenti per la diffusione del tuo messaggio.
+
+**DEVI** 
+
+Crea un hashtag che identifichi il servizio in maniera univoca (ad esempio #tarionline #scuolafacile), è ancora meglio se è già stato utilizzato da un’altra amministrazione per un servizio simile e associalo, se ritieni, ad hashtag di tendenza. 
+
+**DEVI**
+
+Creare lista di mention/influencer/media da utilizzare per amplificare la diffusione della notizia o analizzare le attività che ti aiuteranno a promuovere il tuo servizio nei trend di interesse (ad esempio interagire con un influencer ti aiuta a far conoscere il servizio in una conversazione trending topic. Usa sempre  menzioni pertinenti.
+
+**DOVRESTI**
+
+Utilizzare Twitter per dialogare con gli utenti prevenendo le criticità. Puoi offrire un servizio di customer care se riscontri problematiche sull’utilizzo del servizio (ad es. malfunzionamento) o richieste di maggiori informazioni.
+
+**POTRESTI**
+
+Sfruttare la funzione “momento” per raccontare tutto quello che è inerente al servizio che devi promuovere oppure a un evento collegato.
+
+Instagram
+^^^^^^^^^^
+
+
