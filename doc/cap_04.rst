@@ -249,3 +249,19 @@ LinkedIN è integrato con SlideShare, grazie a questa funzionalità puoi promuov
 
 YouTube
 ^^^^^^^^
+
+Pensa a YouTube come un motore di ricerca: è qui che sempre più spesso i cittadini attingono informazioni pratiche sul “come fare per”, ad esempio come fare per fruire di un servizio. Puoi usare YouTube come repository dei tuoi tutorial, dei video promozionali o come canale, insieme a Facebook, per le dirette degli  eventi.
+
+**DEVI** 
+
+Creare dei video tutorial sull’utilizzo del servizio da pubblicare sul tuo canale youtube. Ricordati di rispettare sempre i requisiti di accessibilità e posizionamento con degli accorgimenti in fase di pubblicazione (sottotitoli, testo descrittivo, tag, etc), di caratterizzarli con elementi di riconoscibilità istituzionale (il logo, un sottopancia di accompagnamento, una copertina).
+
+**DOVRESTI** 
+
+Raccogliere i tuoi contenuti video in playlist tematiche, con un‘attenzione particolare a iniziative correlate di altre amministrazioni. 
+
+**POTRESTI** 
+
+Verificare che non esista già un video tutorial che spiega in maniera chiara e utile le caratteristiche o le funzionalità del tuo servizio e valorizzarlo sui tuoi canali sociali.
+
+
