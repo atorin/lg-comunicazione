@@ -91,3 +91,89 @@ Prevedere una sezione dedicata al materiale promozionale (press kit, infografich
 La Newsletter e le e-mail.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Migliora il rapporto con i tuoi cittadini adottando soluzioni di Citizen Relationship Management (CRM). Con l’iscrizione alla newsletter, il cittadino sceglie di far entrare la tua amministrazione nella mailbox personale per ricevere notizie, informazioni e dati utili su temi di suo interesse. 
+
+Grazie a questo strumento, la tua amministrazione può organizzare in maniera mirata le comunicazioni e gli aggiornamenti e innescare un ingaggio diretto per la promozione dei  servizi..
+
+**DEVI**
+
+Fare molta attenzione al trattamento dei dati personali e aggiornarlo con le disposizioni del General Data Protection Regulation- Regolamento UE 2016/679.
+
+**DEVI**
+
+Inviare una newsletter solo quando hai dei contenuti di qualità che possono realmente interessare il cittadino rispetto alle possibilità di utilizzo del servizio (lancio, nuove funzionalità etc etc)
+
+**DOVRESTI**
+
+Associare alle notizie dell’amministrazione anche notizie di fonti terze (da giornali, eventi o approfondimenti) che possano rendere più completa l’informazione sul tuo servizio. 
+
+**POTRESTI** 
+
+Associare all’invio periodico della newsletter l’apertura di un canale Telegram come ulteriore canale di diffusione delle informazioni più operative relative alla promozione dei tuoi servizi (ad es scadenze di pagamento).
+
+I social media
+~~~~~~~~~~~~~~~
+
+I social media sono spazi di relazione che permettono sia la socializzazione e l’interazione con il contenuto sia il racconto dei tuoi servizi con tecniche narrative coinvolgenti come lo storytelling. 
+
+Aumenta l’interazione e la partecipazione dei tuoi utenti sul tuo canale social per ottenere maggiore risonanza della tua promozione dei servizi.
+
+Ricorda che non tutti i social seguono le stesse logiche e dinamiche. Scegli tra Facebook, Twitter, Instagram, LinkedIn, Youtube in base al messaggio che vuoi diffondere e al target di riferimento.
+
+Definisci sempre una strategia per i social media (vedi glossario) che sia coerente con gli obiettivi di comunicazione della tua compagna e che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali della tua amministrazione. 
+
+**DEVI**
+
+Utilizzare uno stile di comunicazione chiaro, semplice e diretto. 
+Coinvolgere il cittadino durante tutta la narrazione promuovendo l’interazione e il dialogo. 
+
+**DOVRESTI**
+
+Organizzare dirette social e/o video interviste per presentare le novità del servizio o focalizzarti su degli approfondimenti. 
+
+**DOVRESTI**
+
+Avviare dialogo e interazione utilizzando i social anche come strumento di customer care.  Rispondere ai commenti e ai messaggi privati sia su Facebook che su Twitter (ricordati di concordare le risposte di natura tecnica con referenti del servizio) in modo da iinteragire in maniera tempestiva con le richieste degli utenti e superare lo stereotipo dell’autoreferenzialità dell’amministrazione.
+
+**POTRESTI**
+
+Prevedere degli appuntamenti fissi nella programmazione creando ad esempio delle rubriche in cui:
+
+- tratti con taglio giornalistico diversi aspetti del servizio;
+- comunichi in maniera semplice contenuti tecnici; 
+- coinvolgi l’utente, ad esempio con news sul servizio, giornate tematiche, concorsi, contest (il racconto della tua città, la vetrina più bella per promuovere i servizi digitali presso il settore del commercio);
+- affronti un tema con uno stile trasversale.
+
+Facebook
+^^^^^^^^
+
+Un’amministrazione orientata al coinvolgimento del cittadino troverà in Facebook e Messenger due canali fondamentali per promuovere l’interazione e l’interesse relativo ai propri servizi. Facebook è pensato per mettere in relazione le persone; dialogare, condividere e far partecipare. 
+
+Essendo la piattaforma con l’evoluzione più costante, tra tutti i social network, puoi sfruttare le nuove funzionalità di Facebook per diversificare la promozione del tuo servizio.
+
+Per promuovere un servizio e per stimolare la conversazione sulle sue caratteristiche puoi utilizzare il binomio contenuto testuale + elemento multimediale (card grafica, immagine, video) per informare e fare interagire le persone.
+
+**DEVI**
+
+Costruire una linea narrativa interamente dedicata alla promozione dei servizi sulla tua pagina istituzionale. 
+
+**DEVI**
+
+Monitorare la pagina Facebook e ascoltare le richieste di informazioni e i commenti dei cittadini interagendo attivamente.
+Pensare ad un contenuto visual (card, video, anteprima) creativo per la promozione del servizio ed associarlo a dei contenuti testuali semplici e accattivanti.
+
+**DOVRESTI**
+
+Pubblicare brevi video o dirette sulla pagina Facebook per illustrare le novità del servizio o per promuovere un evento ad esso legato.
+Attivare i canali di “domanda e ascolto” come la funzione Sondaggio o il lancio di una “call to action” (ad esempio domande aperte in un post) per interrogare i cittadini sull’utilità del servizio o sull’esperienza durante la fruizione. 
+
+**POTRESTI**
+
+Usa messenger come canale di customer care, associandolo a una chatbot per indirizzare la dinamica di assistenza.
+
+**POTRESTI**
+
+Sfruttare gli strumenti di advertising di Facebook (come business manager, gestione inserzioni, creative hub, app gestione inserzioni) per promuovere servizi attraverso post personalizzati e ottimizzati in grado di intercettare i bisogni informativi dei cittadini.
+
+Twitter
+^^^^^^^
