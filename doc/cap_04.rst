@@ -268,3 +268,27 @@ Verificare che non esista già un video tutorial che spiega in maniera chiara e 
 Le App di messaggistica istantanea (Whatsapp e Telegram)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Grazie a strumenti come le app di messaggistica hai a disposizione uno strumento diretto per raggiungere il cittadino nel “luoghi” di conversazione quotidiana sul suo smartphone, diffondendo così le informazioni in modo semplice ed istantaneo.  Anytime, anywhere.
+
+Ricordati di promuovere le app che decidi di utilizzare i all’interno della tua strategia di comunicazione e di informare i cittadini sul trattamento dei dati personali previsto nella privacy policy della tua amministrazione (hyperlink alla parte sito).
+
+Whatsapp, ad esempio, può essere utilizzato per diffondere notizie, eventi e informazioni brevi sui servizi o come strumento di customer care. 
+
+Utilizza, invece, Telegram per creare canali dedicati a uno o più servizi, nei quali condividere contenuti di vario genere (video, testi, infografiche, ecc.) per informare il cittadino sul servizio e sulle iniziative dell’amministrazione. 
+
+**DEVI**
+
+Creare un messaggio sintetico ma completo adatto agli strumenti che vuoi utilizzare (Whatsapp, Telegram) al fine di promuovere un servizio. Puoi sfruttare anche delle card grafiche promozionali  in sostituzione del messaggio.
+
+**DOVRESTI**
+
+Evitare l’eccesso di informazioni perché potrebbe generare un effetto boomerang di disturbo nei confronti dell’utente.
+Utilizzare strumenti avanzati come i bot per realizzare attività di customer care e rispondere alle richieste degli utenti.
+
+**POTRESTI** 
+
+Creare un mix di contenuti informativi e creativi, per stimolare l’interesse dell’utente.
+Utilizza le liste broadcast per inviare la tua comunicazione in modalità personalizzata (e non massiva), ricordandoti di indicare nella privacy policy del tuo sito le specifiche sul trattamento dei dati personali.
+
+
+
