@@ -13,19 +13,19 @@ La Comunicazione è la leva strategica per la promozione dei servizi pubblici di
 
 **Un piano di comunicazione prevede diverse fasi:**
 
-- **Dove ti trovi?** per rendere efficace il messaggio da comunicare è importante analizzare il contesto di riferimento (esterno ed interno all’organizzazione) e le esperienze simili di successo (o di fallimento).
+**Dove ti trovi?** per rendere efficace il messaggio da comunicare è importante analizzare il contesto di riferimento (esterno ed interno all’organizzazione) e le esperienze simili di successo (o di fallimento).
 
-- **CCosa vuoi ottenere?** avere obiettivi chiari e ben definiti ti permette di valutare al meglio tutte le attività necessarie da mettere in campo per raggiungerli;
+**CCosa vuoi ottenere?** avere obiettivi chiari e ben definiti ti permette di valutare al meglio tutte le attività necessarie da mettere in campo per raggiungerli;
 
-- **A chi vuoi parlare?** cerca di capire da subito a chi ti stai rivolgendo, a chi è indirizzato il tuo messaggio. Una corretta analisi e segmentazione del target ti permetterà di scegliere i mezzi migliori per intercettarlo. 
+**A chi vuoi parlare?** cerca di capire da subito a chi ti stai rivolgendo, a chi è indirizzato il tuo messaggio. Una corretta analisi e segmentazione del target ti permetterà di scegliere i mezzi migliori per intercettarlo. 
 
-- **Quanto puoi spendere?** stabilisci le risorse economiche da destinare  alle tue attività di promozione dei servizi.
+**Quanto puoi spendere?** stabilisci le risorse economiche da destinare  alle tue attività di promozione dei servizi.
 
-- **Dove vuoi dirlo?** è fondamentale scegliere i mezzi e i canali di comunicazione in base al target e al tipo di messaggio da comunicare;
+**Dove vuoi dirlo?** è fondamentale scegliere i mezzi e i canali di comunicazione in base al target e al tipo di messaggio da comunicare;
 
-- **Cosa vuoi dire?** è necessario definire il contenuto della comunicazione, lo stile e il tono da utilizzare;
+**Cosa vuoi dire?** è necessario definire il contenuto della comunicazione, lo stile e il tono da utilizzare;
 
-- **Come è andata?**  l’analisi e il monitoraggio sono fondamentali per valutare l’efficacia delle attività di comunicazione messe in campo e per poter capire cosa ha funzionato, cosa no e quali sono le aree di miglioramento per il futuro.
+**Come è andata?**  l’analisi e il monitoraggio sono fondamentali per valutare l’efficacia delle attività di comunicazione messe in campo e per poter capire cosa ha funzionato, cosa no e quali sono le aree di miglioramento per il futuro.
 
 Nei paragrafi dedicati troverai indicazioni utili per affrontare ciascuna di queste fasi. Ricordati e ricorda  che la comunicazione è parte integrante della strategia di sviluppo e lancio di un servizio digitale.
 
