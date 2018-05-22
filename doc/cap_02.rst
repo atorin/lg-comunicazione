@@ -15,11 +15,17 @@ Una prima roadmap dei lavori verrà rilasciata a conclusione della consultazione
 
 Le indicazioni presenti in queste linee guida sono così classificate:
 
-**DEVI** - Requisiti obbligatori.
+.. admonition:: DEVI
 
-**DOVRESTI**- Suggerimenti caldamente consigliati.
+   Requisiti obbligatori.
 
-**POTRESTI** - Quello che sarebbe ottimale fare.
+.. admonition:: DOVRESTI
+
+   Suggerimenti caldamente consigliati.
+
+.. admonition:: POTRESTI
+
+   Quello che sarebbe ottimale fare.
 
 Come si svilupperà il progetto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
