@@ -1,8 +1,9 @@
 Gli strumenti della comunicazione
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=================================
 
 
 Il ruolo dei media: il digitale fa notizia.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella promozione dei servizi digitali. Considerali i tuoi partner per raggiungere un ampio  numero di persone. Condividi con i giornalisti le novità che riguardano un servizio già dalla fase di studio e poi di lancio,  aggiornali sempre sugli sviluppi.
 
