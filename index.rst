@@ -12,3 +12,4 @@ Linee Guida di Comunicazione
    doc/cap_03
    doc/cap_04
    doc/cap_05
+   doc/cap_06
