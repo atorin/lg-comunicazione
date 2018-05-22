@@ -1,5 +1,5 @@
 Introduzione alle Linee Guida per la promozione dei servizi pubblici digitali 
-=============================================================================
+-----------------------------------------------------------------------------
 
 L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo e coordinamento dei percorsi di crescita digitale della PA, crea, aggiorna e stimola la diffusione **linee guida per la promozione dei servizi digitali** che possano supportare le pubbliche amministrazioni nella definizione di strategie di comunicazione, racconto e marketing sempre più rispondenti alla necessità di favorire la conoscenza  e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
 
