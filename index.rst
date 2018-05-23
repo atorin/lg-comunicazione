@@ -10,3 +10,4 @@ Linee Guida per la Promozione dei Servizi Digitali
    doc/intro_01
    doc/intro_02
    doc/cap_01
+   doc/glossario
