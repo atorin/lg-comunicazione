@@ -7,7 +7,7 @@ La Comunicazione è la leva strategica per la promozione dei servizi pubblici di
 .. toctree::
    :maxdepth: 2
 
-   doc/cap_02
-   doc/cap_03
-   doc/cap_04
-   doc/cap_05
+   cap_02
+   cap_03
+   cap_04
+   cap_05
