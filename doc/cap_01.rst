@@ -1,5 +1,5 @@
 1. Definisci il piano di comunicazione o le linee guida in breve
---------------------------------------------------------------
+-----------------------------------------------------------------
 
 La Comunicazione è la leva strategica per la promozione dei servizi pubblici digitali. Utilizzala al meglio. Le attività di comunicazione hanno lo scopo di cambiare, in meglio, le abitudini dei cittadini attraverso l’informazione, il racconto e la sensibilizzazione sulle nuove possibilità offerte dal digitale. Il piano di comunicazione è lo strumento che ti permette di guidare tutte le azioni necessarie alla promozione dei servizi digitali offerti dalla tua amministrazione, sia nel breve che nel lungo periodo.
 
