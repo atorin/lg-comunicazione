@@ -311,8 +311,10 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
  
    Coinvolgere dei media partner o degli influencer che ti supportino nella diffusione ampliandone la portata.
    
- 4. La comunicazione digitale per la promozione dei servizi.
--------------------------------------------------------------
+ 
+ 
+4. La comunicazione digitale per la promozione dei servizi.
+-----------------------------------------------------------
 
 Anche per l’informazione di servizio il cittadino “mette sul podio” i canali di comunicazione digitale. In questi canali nasce, cresce e si rafforza la reputazione del tuo ente e dei servizi che offre, è fondamentale saperli gestire al meglio per creare un vero rapporto di fiducia e di dialogo tra cittadino e PA.
 
