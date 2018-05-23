@@ -132,7 +132,7 @@ Definisci sempre una strategia per i social media che sia coerente con gli obiet
 
    - Organizzare dirette social e/o video interviste per presentare le novità del servizio o focalizzarti su degli approfondimenti. 
 
-   - Avviare dialogo e interazione utilizzando i social anche come strumento di customer care (link glossario). Rispondere ai commenti e     ai messaggi privati sia su Facebook che su Twitter (ricordati di concordare le risposte di natura tecnica con referenti del             servizio) in modo da interagire in maniera tempestiva con le richieste degli utenti e superare lo stereotipo                             dell’autoreferenzialità dell’amministrazione.
+   - Avviare dialogo e interazione utilizzando i social anche come strumento di customer care. Rispondere ai commenti e ai messaggi          privati sia su Facebook che su Twitter (ricordati di concordare le risposte di natura tecnica con referenti del                          servizio) in modo da interagire in maniera tempestiva con le richieste degli utenti e superare lo stereotipo                            dell’autoreferenzialità dell’amministrazione.
 
 .. admonition:: POTRESTI
 
