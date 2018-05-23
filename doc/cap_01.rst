@@ -45,26 +45,21 @@ Nei paragrafi dedicati troverai indicazioni utili per affrontare ciascuna di que
 
    Redigere un piano di comunicazione relativo alla promozione dei servizi digitali che comprenda da subito tutte le attività di            transizione dall’analogico al digitale previste dalla tua amministrazione.
 
-Dove ti trovi? Analizza e confronta il contesto e il servizio.
+
+Dove ti trovi? Analizza e confronta il contesto e il servizio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Dedica del tempo all’analisi del servizio che offri al cittadino o alle imprese, e ai vantaggi che comporta. Devi capire tu per primo le caratteristiche del servizio - anche quelle tecniche - per poterlo comunicare al meglio. Fai come faresti con un’auto da comprare: valuta gli aspetti positivi da valorizzare e tieni presente quelli critici.
+Dedica del tempo all’analisi del servizio che offri al cittadino o alle imprese e ai vantaggi che comporta. Devi capire tu per primo le caratteristiche del servizio - anche quelle tecniche - per poterlo comunicare al meglio. Fai come faresti con un’auto da comprare: valuta gli aspetti positivi da valorizzare e tieni presente quelli critici.
 È probabile che qualcuno prima di te si sia trovato a lanciare un servizio uguale o simile:
-guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da altre amministrazioni  e prendi spunto (valgono sia le esperienze positive che quelle negative!)
+guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da altre amministrazioni e prendi spunto (valgono sia le esperienze positive che quelle negative!).
 
 .. admonition:: DEVI
 
-   Comprendere i bisogni degli utenti: quest attività ti permetterà di soddisfare i bisogni ancora inesplorati del cittadino/impresa e      aggiungere valore alla tua comunicazione.
+   - Comprendere i bisogni degli utenti: quest'attività ti permetterà di soddisfare i bisogni ancora inesplorati del cittadino/impresa e      aggiungere valore alla tua comunicazione.
 
+   - Confrontarti da subito con chi ha sviluppato il servizio per avere informazioni complete ed entrare davvero nel progetto. Capisci        chi è coinvolto e con quale ruolo, informati da subito sugli sviluppi futuri.
 
-.. admonition:: DEVI
-
-   Confrontarti da subito con chi ha sviluppato il servizio per avere informazioni complete ed entrare davvero nel progetto. Capisci chi    è coinvolto e con quale ruolo, informati da subito sugli sviluppi futuri.
-
-.. admonition:: DEVI
-
-   Capire come mai nasce il servizio, a quali bisogni del target risponde, quale è la cornice strategica (nazionale e locale)              all’interno del quale si contestualizza.
-
+   - Capire come mai nasce il servizio, a quali bisogni del target risponde, quale è la cornice strategica (nazionale e locale)              all’interno del quale si contestualizza.
 
 .. admonition:: DOVRESTI
 
@@ -75,7 +70,7 @@ guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da
    Analizzare e misurare la risposta del cittadino rispetto al servizio offerto: comprensione, utilizzo e soddisfazione. Puoi legare        l’ascolto del target alle attività di monitoraggio per migliorare o modificare la tua strategia in modo da capire da subito se          nascono nuove evidenze.  
 
 
-Cosa vuoi ottenere? Definisci gli obiettivi di comunicazione.
+Cosa vuoi ottenere? Definisci gli obiettivi di comunicazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gli obiettivi di comunicazione, nel caso dei servizi digitali, riguardano: la conoscenza del servizio, il vantaggio percepito dal cittadino nel suo utilizzo, l’aumento della diffusione e la soddisfazione degli utenti.
@@ -106,37 +101,34 @@ Più  saranno chiari i tuoi obiettivi, più facile sarà raggiungerli adattandos
    Evidenziare, attraverso la comunicazione, i progressi fatti dalla tua amministrazione grazie alla transizione al digitale e fare così    brand awareness. Migliorerai la percezione della PA da parte di cittadini e opinione pubblica. Ricordati di non far prevalere questa    attività sulla comunicazione di servizio al cittadino.
 
 
-A chi vuoi parlare? Analizza i destinatari della tua azione di comunicazione.
+A chi vuoi parlare? Analizza i destinatari della tua azione di comunicazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Per promuovere al meglio un servizio digitale è fondamentale sapere a chi è indirizzato, devi individuare e conoscere nel dettaglio il tuo target per capire come raggiungerlo.
+Per promuovere al meglio un servizio digitale è fondamentale sapere a chi è indirizzato: devi individuare e conoscere nel dettaglio il tuo target per capire come raggiungerlo.
 Una volta messe a fuoco le personas, ossia i destinatari dei messaggi, cerca di segmentarli il più possibile e non trascurare le loro abitudini digitali e non.
-Se non hai dati e informazioni di dettaglio sulle caratteristiche e sul  livello di digitalizzazione del tuo target, puoi utilizzare alcuni indicatori facilmente reperibili oppure mettere a punto dei questionari molto semplici da sottoporre all’utente. 
+Se non hai dati e informazioni di dettaglio sulle caratteristiche e sul livello di digitalizzazione del tuo target, puoi utilizzare alcuni indicatori facilmente reperibili oppure mettere a punto dei questionari molto semplici da sottoporre all’utente. 
 
 .. admonition:: DEVI
 
-   Identificare il target di riferimento per il quale dovrai definire contenuti e strumenti delle attività di comunicazione e promozione    del tuo servizio.
+   - Identificare il target di riferimento per il quale dovrai definire contenuti e strumenti delle attività di comunicazione e              promozione del tuo servizio.
 
-.. admonition:: DEVI
-
-   Individuare le caratteristiche socio-demografiche, comportamentali, gli stili di vita e le abitudini di consumo digitale del tuo        target di riferimento rispetto alla tipologia del servizio che devi comunicare (contenuti e modalità di accesso).
+   - Individuare le caratteristiche socio-demografiche, comportamentali, gli stili di vita e le abitudini di consumo digitale del tuo        target di riferimento rispetto alla tipologia del servizio che devi comunicare (contenuti e modalità di accesso).
 
 .. admonition:: DOVRESTI
 
-   Analizzare il livello di utilizzo e il percorso che l’utente svolge per accedere ai servizi digitali già offerti dalla tua              amministrazione. È semplice e ti aiuterà a capire su quale segmento del target è maggiormente necessario concentrarsi.
+   - Analizzare il livello di utilizzo e il percorso che l’utente svolge per accedere ai servizi digitali già offerti dalla tua              amministrazione. È semplice e ti aiuterà a capire su quale segmento del target è maggiormente necessario concentrarsi.
  
-.. admonition:: DOVRESTI
-
-   Ricordare che il target non è statico e si modifica nel corso del tempo, per questo è necessario concentrarsi su attività di analisi    che comprendano tutto il ciclo di vita di promozione del servizio.
+   - Ricordare che il target non è statico e si modifica nel corso del tempo, per questo è necessario concentrarsi su attività di            analisi che comprendano tutto il ciclo di vita di promozione del servizio.
 
 .. admonition:: POTRESTI
 
-   Svolgere un’indagine di mercato, prima del lancio di un servizio o di una serie di servizi, ti aiuterà a individuare le                  caratteristiche e le abitudini del tuo target soprattutto se è molto variegato.
+   Svolgere un’indagine di mercato: prima del lancio di un servizio o di una serie di servizi, ti aiuterà a individuare le                  caratteristiche e le abitudini del tuo target soprattutto se è molto variegato.
 
-Quanto puoi spendere? Definisci il budget.
+
+Quanto puoi spendere? Definisci il budget
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
-È indispensabile pianificare un budget che sia sostenibile rispetto al bilancio della tua organizzazione e che venga impiegato efficacemente per raggiungere gli obiettivi di comunicazione. Ricordati che esistono diversi fondi per finanziare le attività di comunicazione su questi temi, verifica quali sono quelli che hai a disposizione. Se non hai budget non scoraggiarti e metti in moto le idee. Si può fare una buona ed efficace comunicazione anche senza molte risorse economiche.
+È indispensabile pianificare un budget che sia sostenibile rispetto al bilancio della tua organizzazione e che venga impiegato efficacemente per raggiungere gli obiettivi di comunicazione. Ricordati che esistono diversi fondi per finanziare le attività di comunicazione su questi temi, verifica quali sono quelli che hai a disposizione. Se non hai budget non scoraggiarti e metti in moto le idee. Si può fare una buona ed efficace comunicazione anche senza grandi risorse economiche.
 
 .. admonition:: DEVI
 
@@ -150,19 +142,18 @@ Quanto puoi spendere? Definisci il budget.
 
    Fai un’analisi costi-benefici, ti aiuterà a determinare le dimensioni del risultato minimo che dovrai raggiungere in funzione del        budget allocato.
 
-Dove vuoi dirlo? Scegli i mezzi di comunicazione e definisci una strategia media.
+
+Dove vuoi dirlo? Scegli i mezzi di comunicazione e definisci una strategia media
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
-Una volta definiti target e budget è il  momento di pianificare i mezzi più adatti a veicolare il tuo messaggio ai cittadini e alle imprese. 
-Ricordati che, per raggiungere il target di riferimento del servizio digitale che vuoi comunicare, potrai scegliere sia i canali offline che quelli online così da valorizzare al massimo la tua strategia di comunicazione. 
+Una volta definiti target e budget è il  momento di pianificare i mezzi più adatti a veicolare il tuo messaggio al tuo target. 
+Ricordati che, per raggiungere il destinatario del servizio digitale che vuoi comunicare, potrai scegliere sia i canali offline che quelli online così da valorizzare al massimo la tua strategia di comunicazione. 
  
 .. admonition:: DEVI 
 
-   Definire una strategia che prenda in considerazione tutto il ciclo di vita del servizio a partire dal pre-lancio. Pianifica i mezzi      da utilizzare anche in base alle differenti fasi di sviluppo. In una fase di test, ad esempio, non è necessario utilizzare tutta la      gamma di strumenti che hai a disposizione. 
+   - Definire una strategia che prenda in considerazione tutto il ciclo di vita del servizio a partire dal pre-lancio. Pianifica i mezzi      da utilizzare anche in base alle differenti fasi di sviluppo. In una fase di test, ad esempio, non è necessario utilizzare tutta la      gamma di strumenti che hai a disposizione. 
 
-.. admonition:: DEVI
-
-   Scegliere sempre i mezzi in base alle caratteristiche del target, al servizio che devi promuovere e al messaggio che hai scelto di      veicolare. Ricorda sempre che il tuo obiettivo è quello di illustrarne caratteristiche, modalità di utilizzo e vantaggi che ne          derivano.
+   - Scegliere sempre i mezzi in base alle caratteristiche del target, al servizio che devi promuovere e al messaggio che hai scelto di      veicolare. Ricorda sempre che il tuo obiettivo è quello di illustrarne caratteristiche, modalità di utilizzo e vantaggi che ne          derivano.
   
 .. admonition:: DOVRESTI
 
@@ -172,8 +163,9 @@ Ricordati che, per raggiungere il target di riferimento del servizio digitale ch
 
    Utilizzare, se hai un budget limitato, un media mix focalizzato su attività sul territorio che hanno un costo minore (ad es. attività    di media relation) e che includa strumenti digitali. A prescindere dalle risorse a disposizione cerca sempre di raggiungere tutti i      segmenti del tuo target.
 
-Cosa vuoi dire? Definisci il messaggio e lo stile della comunicazione: cosa non puoi dimenticarti di raccontare.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Cosa vuoi dire? Definisci il messaggio e lo stile della comunicazione: cosa non puoi dimenticarti di raccontare
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hai messo a fuoco gli obiettivi e definito il target, ora è il momento di scegliere il contenuto e lo stile della tua comunicazione. Questo è il fulcro di tutto, hai una grande responsabilità.
 
@@ -208,10 +200,11 @@ Scegliere uno stile informativo ma coinvolgente, avendo sempre in mente il targe
  
    Condividere pubblicamente i dati sull’utilizzo dei nuovi servizi, fai in modo che il cittadino si senta parte del percorso di            modernizzazione dell’amministrazione. Ricordati di non essere autoreferenziale!
 
-Come è andata? Misura l’efficacia delle tue attività di comunicazione.
+
+Come è andata? Misura l’efficacia delle tue attività di comunicazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-è fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fase. Hai diverse possibilità a disposizione in base agli strumenti che hai deciso di utilizzare; misura sempre la tua  comunicazione.
+E' fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fase. Hai diverse possibilità a disposizione in base agli strumenti che hai deciso di utilizzare; misura sempre la tua comunicazione.
 
 .. admonition:: DEVI
  
@@ -226,7 +219,8 @@ Come è andata? Misura l’efficacia delle tue attività di comunicazione.
  
    Consultare il tuo target con brevi questionari, potrai valutare in modo diretto l’efficacia e la diffusione delle azioni di              comunicazione che hai messo in campo: non aver paura di chiedere ai tuoi interlocutori quali sono state le mancanze rilevate nella      fase appena conclusa, le informazioni che otterrai ti serviranno per orientare le attività future.
 
-Qualcosa è andato storto. Gestione della crisi nella comunicazione.
+Q
+ualcosa è andato storto. Gestione della crisi nella comunicazione.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amministrazione  in situazioni di emergenza relative alla fruizione di un servizio. Sicuramente ti capiterà di dover gestire critiche derivanti da incomprensioni, problemi tecnici o malfunzionamento del servizio. Non spaventarti! la comunicazione, se gestita bene, ti aiuterà ad affrontare anche questa situazione
