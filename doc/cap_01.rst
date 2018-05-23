@@ -2,7 +2,7 @@ La comunicazione per la promozione dei servizi digitali
 =======================================================
 
 
-1. Definisci il piano di comunicazione o le linee guida in breve
+Definisci il piano di comunicazione o le linee guida in breve
 -----------------------------------------------------------------
 
 La Comunicazione è la leva strategica per la promozione dei servizi pubblici digitali. Utilizzala al meglio. Le attività di comunicazione hanno lo scopo di cambiare, in meglio, le abitudini dei cittadini attraverso l’informazione, il racconto e la sensibilizzazione sulle nuove possibilità offerte dal digitale. Il piano di comunicazione è lo strumento che ti permette di guidare tutte le azioni necessarie alla promozione dei servizi digitali offerti dalla tua amministrazione, sia nel breve che nel lungo periodo.
@@ -238,7 +238,7 @@ Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amminis
 
 
 
-2. Gli strumenti della comunicazione
+Gli strumenti della comunicazione
 ------------------------------------
 
 Il ruolo dei media: il digitale fa notizia.
@@ -258,7 +258,8 @@ I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella p
 
    Utilizzare al meglio tutti i canali digitali in possesso dell’amministrazione: sito, DEM, newsletter, social media anche per mantenere    aperto il dialogo con i giornalisti rispetto alle novità relative allo sviluppo dei servizi digitali della tua amministrazione. 
 
-3. La comunicazione diretta: URP, canali fisici ed eventi sul territorio.
+
+La comunicazione diretta: URP, canali fisici ed eventi sul territorio.
 -----------------------------------------------------------------------
 
 La comunicazione attraverso canali fisici rappresenta un punto di incontro fondamentale per avvicinare i cittadini e le imprese alla pubblica amministrazione, sia in fase di lancio sia in fase di aggiornamento o miglioramento di un servizio.
@@ -313,8 +314,8 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
    
  
  
-4. La comunicazione digitale per la promozione dei servizi.
------------------------------------------------------------
+La comunicazione digitale per la promozione dei servizi.
+---------------------------------------------------------
 
 Anche per l’informazione di servizio il cittadino “mette sul podio” i canali di comunicazione digitale. In questi canali nasce, cresce e si rafforza la reputazione del tuo ente e dei servizi che offre, è fondamentale saperli gestire al meglio per creare un vero rapporto di fiducia e di dialogo tra cittadino e PA.
 
