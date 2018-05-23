@@ -239,7 +239,7 @@ Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amminis
 
 
 Gli strumenti della comunicazione
-------------------------------------
+======================================
 
 Il ruolo dei media: il digitale fa notizia.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -599,7 +599,7 @@ Utilizza le liste broadcast per inviare la tua comunicazione in modalità person
 
 
 Analytics e Social Insights
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Una lettura sistematica dei dati di Web analytics ti consente di capire quante persone sono interessate al tuo servizio (leggono le notizie o gli approfondimenti che proponi) e ti consentono di programmare l’avvio di azioni correttive o migliorative sulla promozione dei servizi digitali.  (vedi Linee Guida di Design).
 
