@@ -1,9 +1,9 @@
 Definisci il piano di comunicazione o le linee guida in breve
 -------------------------------------------------------------
 
-La Comunicazione è la leva strategica per la promozione dei servizi pubblici digitali. Utilizzala al meglio. Le attività di comunicazione hanno lo scopo di cambiare, in meglio, le abitudini dei cittadini attraverso l’informazione, il racconto e la sensibilizzazione sulle nuove possibilità offerte dal digitale. Il piano di comunicazione è lo strumento che ti permette di guidare tutte le azioni necessarie alla promozione dei servizi digitali offerti dalla tua amministrazione, sia nel breve che nel lungo periodo.
+La Comunicazione è la leva strategica per la promozione dei servizi pubblici digitali. Utilizzala al meglio. Le attività di comunicazione hanno lo scopo di migliorare le abitudini dei cittadini attraverso l’informazione, il racconto e la sensibilizzazione sulle nuove possibilità offerte dal digitale. Il piano di comunicazione è lo strumento che ti permette di guidare tutte le azioni necessarie alla promozione dei servizi digitali offerti dalla tua amministrazione, sia nel breve che nel lungo periodo.
 
-**In particolare creare un piano di comunicazione ti consente di:**
+**In particolare, creare un piano di comunicazione ti consente di:**
 
 1. definire la strategia generale per la promozione dei tuoi servizi nei confronti di cittadini e imprese;
 
@@ -13,21 +13,21 @@ La Comunicazione è la leva strategica per la promozione dei servizi pubblici di
 
 **Un piano di comunicazione prevede diverse fasi:**
 
-**Dove ti trovi?** per rendere efficace il messaggio da comunicare è importante analizzare il contesto di riferimento (esterno ed interno all’organizzazione) e le esperienze simili di successo (o di fallimento).
+**Dove ti trovi?** per rendere efficace il messaggio da comunicare è importante analizzare il contesto di riferimento (esterno e interno all’organizzazione) e le esperienze simili di successo (o di fallimento).
 
-**Cosa vuoi ottenere?** avere obiettivi chiari e ben definiti ti permette di valutare al meglio tutte le attività necessarie da mettere in campo per raggiungerli;
+**Cosa vuoi ottenere?** avere obiettivi chiari e ben definiti ti permette di valutare al meglio tutte le attività necessarie da mettere in campo per raggiungerli.
 
-**A chi vuoi parlare?** cerca di capire da subito a chi ti stai rivolgendo, a chi è indirizzato il tuo messaggio. Una corretta analisi e segmentazione del target ti permetterà di scegliere i mezzi migliori per intercettarlo. 
+**A chi vuoi parlare?** cerca di capire subito a chi ti stai rivolgendo, a chi è indirizzato il tuo messaggio. Una corretta analisi e segmentazione del target ti permetterà di scegliere i mezzi migliori per intercettarlo. 
 
 **Quanto puoi spendere?** stabilisci le risorse economiche da destinare  alle tue attività di promozione dei servizi.
 
-**Dove vuoi dirlo?** è fondamentale scegliere i mezzi e i canali di comunicazione in base al target e al tipo di messaggio da comunicare;
+**Dove vuoi dirlo?** è fondamentale scegliere i mezzi e i canali di comunicazione in base al target e al tipo di messaggio da comunicare.
 
-**Cosa vuoi dire?** è necessario definire il contenuto della comunicazione, lo stile e il tono da utilizzare;
+**Cosa vuoi dire?** è necessario definire il contenuto della comunicazione, lo stile e il tono da utilizzare.
 
 **Come è andata?**  l’analisi e il monitoraggio sono fondamentali per valutare l’efficacia delle attività di comunicazione messe in campo e per poter capire cosa ha funzionato, cosa no e quali sono le aree di miglioramento per il futuro.
 
-Nei paragrafi dedicati troverai indicazioni utili per affrontare ciascuna di queste fasi. Ricordati e ricorda  che la comunicazione è parte integrante della strategia di sviluppo e lancio di un servizio digitale.
+Nei paragrafi dedicati troverai indicazioni utili per affrontare ciascuna di queste fasi. Ricorda che la comunicazione è parte integrante della strategia di sviluppo e lancio di un servizio digitale.
 
 .. admonition:: DEVI
 
@@ -35,7 +35,7 @@ Nei paragrafi dedicati troverai indicazioni utili per affrontare ciascuna di que
 
 .. admonition:: DOVRESTI
    
-   Utilizzare i dati di analisi di scenario e studiare i target di riferimento dei tuoi servizi per tarare al meglio i tuoi                obiettivi
+   Utilizzare i dati di analisi di scenario e studiare i target di riferimento dei tuoi servizi per tarare al meglio i tuoi                obiettivi.
 
 .. admonition:: POTRESTI
 
@@ -53,17 +53,17 @@ guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da
 
    - Comprendere i bisogni degli utenti: quest'attività ti permetterà di soddisfare i bisogni ancora inesplorati del cittadino/impresa e      aggiungere valore alla tua comunicazione.
 
-   - Confrontarti da subito con chi ha sviluppato il servizio per avere informazioni complete ed entrare davvero nel progetto. Capisci        chi è coinvolto e con quale ruolo, informati da subito sugli sviluppi futuri.
+   - Confrontarti subito con chi ha sviluppato il servizio per avere informazioni complete ed entrare davvero nel progetto. Capisci          chi è coinvolto e con quale ruolo, informati da subito sugli sviluppi futuri.
 
-   - Capire come mai nasce il servizio, a quali bisogni del target risponde, quale è la cornice strategica (nazionale e locale)              all’interno del quale si contestualizza.
+   - Capire perchè nasce il servizio, a quali bisogni del target risponde, qual'è la cornice strategica (nazionale e locale)                  all’interno della quale si contestualizza.
 
 .. admonition:: DOVRESTI
 
-   Fai in modo che l’Ufficio comunicazione diventi parte del gruppo di lavoro tecnico che si occupa di sviluppare il servizio, così        sarai sempre aggiornato sulle sue evoluzioni.
+   Dovresti fare in modo che l’Ufficio comunicazione diventi parte del gruppo di lavoro tecnico che si occupa di sviluppare il servizio,    così sarai sempre aggiornato sulle sue evoluzioni.
 
 .. admonition:: POTRESTI
 
-   Analizzare e misurare la risposta del cittadino rispetto al servizio offerto: comprensione, utilizzo e soddisfazione. Puoi legare        l’ascolto del target alle attività di monitoraggio per migliorare o modificare la tua strategia in modo da capire da subito se          nascono nuove evidenze.  
+   Analizzare e misurare la risposta del cittadino rispetto al servizio offerto: comprensione, utilizzo e soddisfazione. Puoi legare        l’ascolto del target alle attività di monitoraggio per migliorare o modificare la tua strategia in modo da capire immqediatamente se    nascono nuove evidenze.  
 
 
 Cosa vuoi ottenere? Definisci gli obiettivi di comunicazione
@@ -85,7 +85,7 @@ Più  saranno chiari i tuoi obiettivi, più facile sarà raggiungerli adattandos
 
 .. admonition:: DEVI
 
-   Far conoscere il servizio ai cittadini; valorizza i vantaggi pratici e valoriali così abbatterai le barriere di diffidenza nei          confronti delle novità.
+   Far conoscere il servizio ai cittadini valorizzando i vantaggi pratici e valoriali: così abbatterai le barriere di diffidenza nei        confronti delle novità.
 
 
 .. admonition:: DOVRESTI
@@ -94,7 +94,7 @@ Più  saranno chiari i tuoi obiettivi, più facile sarà raggiungerli adattandos
 
 .. admonition:: POTRESTI
 
-   Evidenziare, attraverso la comunicazione, i progressi fatti dalla tua amministrazione grazie alla transizione al digitale e fare così    brand awareness. Migliorerai la percezione della PA da parte di cittadini e opinione pubblica. Ricordati di non far prevalere questa    attività sulla comunicazione di servizio al cittadino.
+   Evidenziare i progressi fatti dalla tua amministrazione grazie alla transizione al digitale e fare così    brand awareness.              Migliorerai la percezione della PA da parte di cittadini e opinione pubblica. Ricordati di non far prevalere questa    attività sulla    comunicazione di servizio al cittadino.
 
 
 A chi vuoi parlare? Analizza i destinatari della tua azione di comunicazione
@@ -118,13 +118,13 @@ Se non hai dati e informazioni di dettaglio sulle caratteristiche e sul livello 
 
 .. admonition:: POTRESTI
 
-   Svolgere un’indagine di mercato: prima del lancio di un servizio o di una serie di servizi, ti aiuterà a individuare le                  caratteristiche e le abitudini del tuo target soprattutto se è molto variegato.
+   Svolgere un’indagine di mercato, prima del lancio di un servizio o di una serie di servizi, ti aiuterà a individuare le                  caratteristiche e le abitudini del tuo target soprattutto se è molto variegato.
 
 
 Quanto puoi spendere? Definisci il budget
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
-È indispensabile pianificare un budget che sia sostenibile rispetto al bilancio della tua organizzazione e che venga impiegato efficacemente per raggiungere gli obiettivi di comunicazione. Ricordati che esistono diversi fondi per finanziare le attività di comunicazione su questi temi, verifica quali sono quelli che hai a disposizione. Se non hai budget non scoraggiarti e metti in moto le idee. Si può fare una buona ed efficace comunicazione anche senza grandi risorse economiche.
+È indispensabile pianificare un budget sostenibile dalla tua organizzazione e che venga impiegato efficacemente per raggiungere gli obiettivi di comunicazione. Ricordati che esistono diversi fondi per finanziare le attività di comunicazione su questi temi, verifica quali sono quelli che hai a disposizione. Se non hai budget non scoraggiarti e metti in moto le idee. Si può fare una comunicazione efficace anche senza grandi risorse economiche.
 
 .. admonition:: DEVI
 
@@ -132,11 +132,11 @@ Quanto puoi spendere? Definisci il budget
 
 .. admonition:: DOVRESTI
 
-   Sensibilizzare i decisori sulla necessità di allocare fondi sulla promozione dei servizi digitali. Predisponi un piano di                comunicazione comprensivo di definizione del budget e delle risorse necessarie al raggiungimento obiettivi che punti a raggiungere.
+   Sensibilizzare i decisori sulla necessità di allocare fondi sulla promozione dei servizi digitali. Predisponi un piano di                comunicazione comprensivo di definizione del budget e delle risorse necessarie al raggiungimento dei tuoi obiettivi.
 
 .. admonition:: POTRESTI
 
-   Fai un’analisi costi-benefici, ti aiuterà a determinare le dimensioni del risultato minimo che dovrai raggiungere in funzione del        budget allocato.
+   Fare un’analisi costi-benefici ti aiuterà a determinare le dimensioni del risultato minimo che dovrai raggiungere in funzione del        budget allocato.
 
 
 Dove vuoi dirlo? Scegli i mezzi di comunicazione e definisci una strategia media
@@ -149,15 +149,15 @@ Ricordati che, per raggiungere il destinatario del servizio digitale che vuoi co
 
    - Definire una strategia che prenda in considerazione tutto il ciclo di vita del servizio a partire dal pre-lancio. Pianifica i mezzi      da utilizzare anche in base alle differenti fasi di sviluppo. In una fase di test, ad esempio, non è necessario utilizzare tutta la      gamma di strumenti che hai a disposizione. 
 
-   - Scegliere sempre i mezzi in base alle caratteristiche del target, al servizio che devi promuovere e al messaggio che hai scelto di      veicolare. Ricorda sempre che il tuo obiettivo è quello di illustrarne caratteristiche, modalità di utilizzo e vantaggi che ne          derivano.
+   - Scegliere sempre i mezzi in base alle caratteristiche del target, al servizio che devi promuovere e al messaggio che hai scelto di      veicolare. Ricorda sempre che il tuo obiettivo è quello di illustrarne caratteristiche, modalità di utilizzo e vantaggi.
   
 .. admonition:: DOVRESTI
 
-   Definire un piano temporale in cui programmare le attività di comunicazione, ricordando che i servizi digitali hanno un ciclo di        sviluppo e picchi di utilizzo (es: scadenze particolari porteranno ad un maggiore utilizzo del tuo servizio e dunque ad una maggiore    esposizione mediatica). 
+   Definire un piano temporale in cui programmare le attività di comunicazione, ricordando che i servizi digitali hanno un ciclo di        sviluppo e picchi di utilizzo (es: scadenze particolari porteranno a un maggiore utilizzo del tuo servizio e dunque ad una maggiore    esposizione mediatica). 
 
 .. admonition:: POTRESTI 
 
-   Utilizzare, se hai un budget limitato, un media mix focalizzato su attività sul territorio che hanno un costo minore (ad es. attività    di media relation) e che includa strumenti digitali. A prescindere dalle risorse a disposizione cerca sempre di raggiungere tutti i      segmenti del tuo target.
+   Utilizzare, se hai un budget limitato, un media mix focalizzato su attività sul territorio che hanno un costo minore (es. attività      di media relation) e che includa strumenti digitali. A prescindere dalle risorse a disposizione cerca sempre di raggiungere tutti i      segmenti del tuo target.
 
 
 Cosa vuoi dire? Definisci il messaggio e lo stile della comunicazione: cosa non puoi dimenticarti di raccontare
@@ -177,15 +177,11 @@ Questi alcuni dei messaggi che non puoi fare a meno di declinare nella tua comun
 
 .. admonition:: DEVI
 
-Scegliere uno stile informativo ma coinvolgente, avendo sempre in mente il target del servizio che stai comunicando. Usa sempre un linguaggio chiaro e diretto che metta a fuoco i vantaggi del tuo servizio. 
+   - Scegliere uno stile informativo ma coinvolgente, avendo sempre in mente il target del servizio che stai comunicando. Usa sempre un      linguaggio chiaro e diretto che metta a fuoco i vantaggi del tuo servizio. 
 
-.. admonition:: DEVI
+   - Ricordarti di non dare niente per scontato, ricorda sempre che la tua comunicazione deve accompagnare i cittadini nella scoperta di      nuove modalità di fruizione dei servizi; cerca di sostenerli nel cambiamento delle loro abitudini.
 
-   Ricordati di non dare niente per scontato, ricorda sempre che la tua comunicazione deve accompagnare i cittadini nella scoperta di      nuove modalità di fruizione dei servizi; cerca di sostenerli nel cambiamento delle loro abitudini.
-
-.. admonition:: DEVI 
-
-   Evidenziare le modalità di supporto messe a disposizione degli utenti meno esperti. È indispensabile che il cittadino non si senta      spaesato di fronte alle novità proposte dall’amministrazione. 
+   - Evidenziare le modalità di supporto messe a disposizione degli utenti meno esperti. È indispensabile che il cittadino non si senta      spaesato di fronte alle novità proposte dall’amministrazione. 
 
 .. admonition:: DOVRESTI
 
