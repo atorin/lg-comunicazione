@@ -9,6 +9,7 @@ Linee guida per la promozione dei servizi digitali
 
    doc/intro_02
    doc/intro_01
+   doc/cap_00
    doc/cap_01
    doc/cap_02
    doc/cap_03
