@@ -1,5 +1,5 @@
 Introduzione per la consultazione pubblica
-------------------------------------------
+==========================================
 
 **Informazioni sulla consultazione**
 
