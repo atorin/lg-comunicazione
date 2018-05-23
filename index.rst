@@ -7,8 +7,8 @@ Linee Guida per la Promozione dei Servizi Digitali
 .. toctree::
    :maxdepth: 2
 
-   doc/intro_01
-   doc/intro_02
+   doc/intro_linee-guida
+   doc/intro_consultazione
    doc/promozione-servizi-digitali
    doc/piano-comunicazione
    doc/comunicazione-offline
