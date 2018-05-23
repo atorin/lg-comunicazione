@@ -90,8 +90,8 @@ La landing page contiene una descrizione chiara e accattivante delle caratterist
    Prevedere una sezione dedicata al materiale promozionale (press kit, infografiche)
 
 
-La Newsletter e le e-mail.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La Newsletter 
+^^^^^^^^^^^^^^
 
 Migliora il rapporto con i tuoi cittadini adottando soluzioni di Citizen Relationship Management (CRM). Con l’iscrizione alla newsletter, il cittadino sceglie di far entrare la tua amministrazione nella mailbox personale per ricevere notizie, informazioni e dati utili su temi di suo interesse. 
 
@@ -103,7 +103,7 @@ Grazie a questo strumento, la tua amministrazione può organizzare in maniera mi
 
 .. admonition:: DOVRESTI
 
-   Inviare una newsletter solo quando hai dei contenuti di qualità che possono realmente interessare il cittadino rispetto alle            possibilità di utilizzo del servizio (lancio, nuove funzionalità etc etc)
+   Inviare una newsletter solo quando hai dei contenuti di qualità che possono realmente interessare il cittadino rispetto alle            possibilità di utilizzo del servizio (lancio, nuove funzionalità etc etc).
 
 .. admonition:: POTRESTI
 
