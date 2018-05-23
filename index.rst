@@ -1,7 +1,7 @@
-**Linee Guida Comunicazione**
+**Linee guida per la promozione dei servizi digitali**
 
-Linee Guida di Comunicazione
-++++++++++++++++++++++++++++
+Linee guida per la promozione dei servizi digitali
++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 .. toctree::
