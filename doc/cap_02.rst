@@ -153,7 +153,7 @@ Ricordati che, per raggiungere il destinatario del servizio digitale che vuoi co
   
 .. admonition:: DOVRESTI
 
-   Definire un piano temporale in cui programmare le attività di comunicazione, ricordando che i servizi digitali hanno un ciclo di        sviluppo e picchi di utilizzo (es: scadenze particolari porteranno a un maggiore utilizzo del tuo servizio e dunque ad una maggiore    esposizione mediatica). 
+   Definire un piano temporale in cui programmare le attività di comunicazione, ricordando che i servizi digitali hanno un ciclo di        sviluppo e picchi di utilizzo (es: scadenze particolari porteranno a un maggiore utilizzo del tuo servizio e dunque ad una maggiore      esposizione mediatica). 
 
 .. admonition:: POTRESTI 
 
@@ -179,7 +179,7 @@ Questi alcuni dei messaggi che non puoi fare a meno di declinare nella tua comun
 
    - Scegliere uno stile informativo ma coinvolgente, avendo sempre in mente il target del servizio che stai comunicando. Usa sempre un      linguaggio chiaro e diretto che metta a fuoco i vantaggi del tuo servizio. 
 
-   - Ricordarti di non dare niente per scontato, ricorda sempre che la tua comunicazione deve accompagnare i cittadini nella scoperta di      nuove modalità di fruizione dei servizi; cerca di sostenerli nel cambiamento delle loro abitudini.
+   - Ricordarti di non dare niente per scontato: la tua comunicazione deve accompagnare i cittadini nella scoperta di nuove modalità di      fruizione dei servizi e cercare di sostenerli nel cambiamento delle loro abitudini.
 
    - Evidenziare le modalità di supporto messe a disposizione degli utenti meno esperti. È indispensabile che il cittadino non si senta      spaesato di fronte alle novità proposte dall’amministrazione. 
 
@@ -196,12 +196,11 @@ Questi alcuni dei messaggi che non puoi fare a meno di declinare nella tua comun
 Come è andata? Misura l’efficacia delle tue attività di comunicazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-E' fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fase. Hai diverse possibilità a disposizione in base agli strumenti che hai deciso di utilizzare; misura sempre la tua comunicazione.
+E'fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fase. Misura sempre la tua comunicazione: haidiverse possibilità  a disposizione in base agli strumenti che utilizzi.
 
 .. admonition:: DEVI
  
    Analizzare e monitorare costantemente i risultati delle campagne attraverso indicatori qualitativi e quantitativi.
-
 
 .. admonition:: DOVRESTI
 
@@ -214,7 +213,7 @@ E' fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fa
 Qualcosa è andato storto. Gestione della crisi nella comunicazione.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amministrazione  in situazioni di emergenza relative alla fruizione di un servizio. Sicuramente ti capiterà di dover gestire critiche derivanti da incomprensioni, problemi tecnici o malfunzionamento del servizio. Non spaventarti! la comunicazione, se gestita bene, ti aiuterà ad affrontare anche questa situazione
+Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amministrazione  in situazioni di emergenza relative alla fruizione di un servizio. Sicuramente ti capiterà di dover gestire critiche derivanti da incomprensioni, problemi tecnici o malfunzionamento del servizio. Non spaventarti! La comunicazione, se gestita bene, ti aiuterà ad affrontare anche questa situazione
 
 .. admonition:: DEVI
  
@@ -226,5 +225,5 @@ Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amminis
 
 .. admonition:: POTRESTI
  
-   Identificare le situazioni di critiche che potresti trovarti a gestire rispetto al funzionamento dei servizi digitali offerti dalla      tua amministrazione in modo da identificare modalità di comunicazione e tipologia di messaggi da diffondere.
+   Individuare le situazioni di critiche che potresti trovarti a gestire rispetto al funzionamento dei servizi digitali offerti dalla      tua amministrazione in modo da identificare modalità di comunicazione e tipologia di messaggi da diffondere.
 
