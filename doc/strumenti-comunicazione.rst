@@ -6,5 +6,5 @@ Arrivati a questo punto puoi utilizzare i differenti strumenti di comunicazione 
 .. toctree::
    :maxdepth: 2
 
-   cap_04
-   cap_05
+   comunicazione-offline
+   comunicazione-digitale
