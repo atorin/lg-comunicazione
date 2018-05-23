@@ -19,7 +19,7 @@ Le indicazioni presenti in queste linee guida sono così classificate:
 
 .. admonition:: DEVI
 
-   Requisiti obbligatori.
+   Requisiti necessari.
 
 .. admonition:: DOVRESTI
 
