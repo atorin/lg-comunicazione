@@ -277,7 +277,7 @@ Spesso, è il primo punto di contatto tra  amministrazione e cittadini, luogo in
 
 .. admonition:: DOVRESTI
 
-Organizzare dei momenti di confronto durante i quali illustrare ai cittadini e alle imprese i servizi digitali e i loro vantaggi. Individua il momento di maggior afflusso e organizza un corner dedicato all’informazione e alla promozione con personale adeguatamente formato per rispondere alle domande dei cittadini.
+   Organizzare dei momenti di confronto durante i quali illustrare ai cittadini e alle imprese i servizi digitali e i loro vantaggi.        Individua il momento di maggior afflusso e organizza un corner dedicato all’informazione e alla promozione con personale                adeguatamente formato per rispondere alle domande dei cittadini.
 
 .. admonition:: POTRESTI
 
