@@ -10,7 +10,6 @@ Linee Guida per la Promozione dei Servizi Digitali
    doc/intro_linee-guida
    doc/intro_consultazione
    doc/promozione-servizi-digitali
-   doc/piano-comunicazione
    doc/comunicazione-offline
    doc/comunicazione-digitale
    doc/analytics
