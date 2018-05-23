@@ -348,29 +348,24 @@ Ricordati di:
 
 .. admonition:: DEVI
  
-   Aggiornare sempre il sito con delle notizie, soprattutto nella fase di lancio di un nuovo servizio e della sua campagna di              comunicazione. Aggiungi contenuti multimediali come foto o infografiche che supportino e rafforzino la narrazione.
-
-.. admonition:: DEVI
+   - Aggiornare sempre il sito con le notizie sui servizi, soprattutto nella fase di lancio di uno nuovo e della sua campagna di              comunicazione. Aggiungi contenuti multimediali come foto o infografiche che supportino e rafforzino la narrazione;
  
-   Descrivere in maniera chiara ed esauriente i servizi inserendo tutte le informazioni necessarie per potervi accedere, ricevere          assistenza, in modo da accompagnare l’utente in ogni fase di utilizzo del servizio stesso.
-
-.. admonition:: DEVI
+   - Descrivere in maniera chiara ed esauriente i servizi inserendo tutte le informazioni necessarie per potervi accedere e ricevere          assistenza, in modo da accompagnare l’utente in ogni fase di utilizzo del servizio stesso;
  
-   Prevedere degli approfondimenti per spiegare ai cittadini e ai media i processi più complessi attraverso, ad esempio, l’utilizzo        delle FAQ (domande frequenti con risposte preimpostate). 
+   - Prevedere degli approfondimenti per spiegare ai cittadini e ai media i processi più complessi attraverso, ad esempio, l’utilizzo        delle FAQ (domande frequenti con risposte preimpostate). 
 
 **DOVRESTI**
 
-Scrivere i testi ottimizzandoli per i motori di ricerca (vedi linee guida AgID SEO).
+- Scrivere i testi ottimizzandoli per i motori di ricerca (vedi linee guida AgID SEO).
 
-**POTRESTI**
-
-Definire obiettivi di conversione, cioè obiettivi strategici e mirati di risposta diretta per ottenere il massimo ritorno sull'investimento (ROI).
+- Definire obiettivi di conversione, cioè obiettivi strategici e mirati di risposta diretta per ottenere il massimo ritorno               sull'investimento (ROI).
 
 **POTRESTI**
  
-Associare al sito istituzionale un canale parallelo di racconto e approfondimento - come ad esempio un Medium - che ad esempio ti consente di:
-informare e aggiornare su iniziative e progetti che supportano l’attuazione dei servizi e sugli adempimenti degli obblighi normativi nazionali e internazionali; 
-spiegare in maniera informale e attraverso una narrazione coinvolgente, come funzionano processi complessi e che impatto hanno sui cittadini; 
+Associare al sito istituzionale un canale parallelo di racconto e approfondimento - come ad esempio un canale Medium - che ti consente di:
+- informare e aggiornare su iniziative e progetti che supportano l’attuazione dei servizi e sugli adempimenti degli obblighi normativi     nazionali e internazionali; 
+- spiegare in maniera informale e attraverso una narrazione coinvolgente, come funzionano processi complessi e che impatto hanno sui       cittadini.
+
 
 Oltre il sito c’è di più. Gli altri strumenti online.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -387,7 +382,7 @@ Siti tematici o Landing page
 
 Crea un sito tematico solo se hai un’esigenza di comunicazione orientata al servizio che non trova adeguato spazio sul tuo sito istituzionale. Se lanci un nuovo servizio per cui riscontri l’esigenza di informare e assistere i cittadini puoi creare un sito attraverso il quale accompagnare il cittadino nella familiarizzazione con le nuove funzionalità e anche con le attività di assistenza. Se digitalizzi i servizi di un asset strategico delle tue attività, come la sanità, il turismo, la mobilità puoi prevedere un ambiente web dedicato.
 
-Sfrutta invece le funzionalità della Landing page per promuovere le funzionalità o una call to action sul servizio (come l’iscrizione, la partecipazione ad un evento, l’iscrizione ad un servizio di alert, ad esempio). 
+Sfrutta invece lo strumento della Landing page per promuovere le funzionalità o una call to action sul servizio (ad es: l’iscrizione e la partecipazione ad un evento, l’iscrizione ad un servizio di alert). 
 
 La landing page contiene una descrizione chiara e accattivante delle caratteristiche del servizio insieme all’invito all’azione. Gli obiettivi della landing page sono:
 
@@ -443,7 +438,7 @@ Aumenta l’interazione e la partecipazione dei tuoi utenti sul tuo canale socia
 
 Ricorda che non tutti i social seguono le stesse logiche e dinamiche. Scegli tra Facebook, Twitter, Instagram, LinkedIn, Youtube in base al messaggio che vuoi diffondere e al target di riferimento.
 
-Definisci sempre una strategia per i social media (vedi glossario) che sia coerente con gli obiettivi di comunicazione della tua compagna e che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali della tua amministrazione. 
+Definisci sempre una strategia per i social media (vedi glossario) che sia coerente con gli obiettivi di comunicazione della tua campagna, che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali della tua amministrazione. 
 
 **DEVI**
 
@@ -452,11 +447,9 @@ Coinvolgere il cittadino durante tutta la narrazione promuovendo l’interazione
 
 **DOVRESTI**
 
-Organizzare dirette social e/o video interviste per presentare le novità del servizio o focalizzarti su degli approfondimenti. 
+- Organizzare dirette social e/o video interviste per presentare le novità del servizio o focalizzarti su degli approfondimenti. 
 
-**DOVRESTI**
-
-Avviare dialogo e interazione utilizzando i social anche come strumento di customer care.  Rispondere ai commenti e ai messaggi privati sia su Facebook che su Twitter (ricordati di concordare le risposte di natura tecnica con referenti del servizio) in modo da iinteragire in maniera tempestiva con le richieste degli utenti e superare lo stereotipo dell’autoreferenzialità dell’amministrazione.
+- Avviare dialogo e interazione utilizzando i social anche come strumento di customer care (link glossario). Rispondere ai commenti e ai   messaggi privati sia su Facebook che su Twitter (ricordati di concordare le risposte di natura tecnica con referenti del                 servizio) in modo da interagire in maniera tempestiva con le richieste degli utenti e superare lo stereotipo                             dell’autoreferenzialità dell’amministrazione.
 
 **POTRESTI**
 
@@ -479,12 +472,10 @@ Per promuovere un servizio e per stimolare la conversazione sulle sue caratteris
 
 **DEVI**
 
-Costruire una linea narrativa interamente dedicata alla promozione dei servizi sulla tua pagina istituzionale. 
+- Costruire una linea narrativa interamente dedicata alla promozione dei servizi sulla tua pagina istituzionale. 
 
-**DEVI**
-
-Monitorare la pagina Facebook e ascoltare le richieste di informazioni e i commenti dei cittadini interagendo attivamente.
-Pensare ad un contenuto visual (card, video, anteprima) creativo per la promozione del servizio ed associarlo a dei contenuti testuali semplici e accattivanti.
+- Monitorare la pagina Facebook e ascoltare le richieste di informazioni e i commenti dei cittadini interagendo attivamente.
+  Pensare ad un contenuto visual (card, video, anteprima) creativo per la promozione del servizio ed associarlo a dei contenuti           testuali semplici e accattivanti.
 
 **DOVRESTI**
 
@@ -493,11 +484,9 @@ Attivare i canali di “domanda e ascolto” come la funzione Sondaggio o il lan
 
 **POTRESTI**
 
-Usa messenger come canale di customer care, associandolo a una chatbot per indirizzare la dinamica di assistenza.
+- Usa messenger come canale di customer care, associandolo a una chatbot per indirizzare la dinamica di assistenza.
 
-**POTRESTI**
-
-Sfruttare gli strumenti di advertising di Facebook (come business manager, gestione inserzioni, creative hub, app gestione inserzioni) per promuovere servizi attraverso post personalizzati e ottimizzati in grado di intercettare i bisogni informativi dei cittadini.
+- Sfruttare gli strumenti di advertising di Facebook (come business manager, gestione inserzioni, creative hub, app gestione inserzioni)   per promuovere servizi attraverso post personalizzati e ottimizzati in grado di intercettare i bisogni informativi dei cittadini.
 
 
 Twitter
@@ -512,15 +501,13 @@ Quando crei un tweet per promuovere i tuoi servizi ricordati di:
 
 - scegliere un linguaggio semplice ma conciso, legato ad hashtag di tendenza e hashtag che invece caratterizzano il servizio;
 
-- corredarlo con un link, un’immagine o una card in linea creativa con la tua promozione, menzionando quegli account che ritieni più influenti per la diffusione del tuo messaggio.
+- corredarlo con un link, un’immagine o una card in linea creativa con la tua promozione, menzionando quegli account che ritieni più       influenti per la diffusione del tuo messaggio.
 
 **DEVI** 
 
-Crea un hashtag che identifichi il servizio in maniera univoca (ad esempio #tarionline #scuolafacile), è ancora meglio se è già stato utilizzato da un’altra amministrazione per un servizio simile e associalo, se ritieni, ad hashtag di tendenza. 
+- Crea un hashtag che identifichi il servizio in maniera univoca (ad esempio #tarionline #scuolafacile), è ancora meglio se è già stato   utilizzato da un’altra amministrazione per un servizio simile e associalo, se ritieni, ad hashtag di tendenza. 
 
-**DEVI**
-
-Creare lista di mention/influencer/media da utilizzare per amplificare la diffusione della notizia o analizzare le attività che ti aiuteranno a promuovere il tuo servizio nei trend di interesse (ad esempio interagire con un influencer ti aiuta a far conoscere il servizio in una conversazione trending topic. Usa sempre  menzioni pertinenti.
+- Creare lista di mention/influencer/media da utilizzare per amplificare la diffusione della notizia o analizzare le attività che ti       aiuteranno a promuovere il tuo servizio nei trend di interesse (ad esempio interagire con un influencer ti aiuta a far conoscere il     servizio in una conversazione trending topic. Usa sempre  menzioni pertinenti.
 
 **DOVRESTI**
 
@@ -534,7 +521,8 @@ Sfruttare la funzione “momento” per raccontare tutto quello che è inerente 
 Instagram
 ^^^^^^^^^^
 
-Con Instagram puoi raccontare per immagini il tuo servizio. Puoi scegliere, ad esempio, una comunicazione istituzionale che accompagni la sua evoluzione, nella quale le immagini ti aiutano a raccontare caratteristiche e funzioni. Oppure puntare su un tone of voice più creativo e informale che (ad esempio attraverso immagini evocative, video, storie) accresca l’empatia del tuo target verso il servizio. Sfrutta Instagram per promuovere le varie fasi tuo servizio, per raccontare le sue funzionalità con testimonianze di chi lo usa, fare dirette che accompagnino, ad esempio gli eventi che hai organizzato.
+Con Instagram puoi raccontare per immagini il tuo servizio. Puoi scegliere, ad esempio, una comunicazione istituzionale che accompagni la sua evoluzione, nella quale le immagini ti aiutano a raccontare caratteristiche e funzioni.
+Oppure puntare su un tone of voice più creativo e informale che (ad esempio attraverso immagini evocative, video, storie) accresca l’empatia del tuo target verso il servizio. Sfrutta Instagram per promuovere le varie fasi tuo servizio, per raccontare le sue funzionalità con testimonianze di chi lo usa, fare dirette che accompagnino, ad esempio, gli eventi che hai organizzato.
 
 **DEVI**
 
@@ -542,7 +530,7 @@ Scegliere una linea narrativa con diverse tipologie di contenuto, che supporti l
 
 **DOVRESTI**
 
-Sfruttare Instagram per la promozione dei tuoi servizi, attraverso post sponsorizzati che puoi attivare collegandoti ala pagina istituzionale di Facebook e utilizzando le funzionalità di advertising connesse. 
+Sfruttare Instagram per la promozione dei tuoi servizi, attraverso post sponsorizzati che puoi attivare collegandoti alla pagina istituzionale di Facebook e utilizzando le funzionalità di advertising connesse. 
 
 **POTRESTI**
 
@@ -560,11 +548,9 @@ Sfruttare il potenziale delle comunità professionali per alimentare la promozio
 
 **DOVRESTI**
 
-Invitare il personale della tua amministrazione ad essere il primo testimonial del tuo servizio, ad interagire con gli altri professionisti e a supportare la promozione e il racconto del servizio. Condividere contenuti variegati (infografiche, video, whitepaper, ecc.) con un taglio tecnico, rispondendo ai bisogni di un pubblico professionale.
+- Invitare il personale della tua amministrazione a diventare il primo testimonial del servizio su LinkedIN, ad interagire con gli altri   professionisti e a supportare la promozione e il racconto. Condividere contenuti variegati (infografiche, video, whitepaper, ecc.) con   un taglio tecnico, rispondendo ai bisogni di un pubblico professionale.
 
-**POTRESTI**
-
-LinkedIN è integrato con SlideShare, grazie a questa funzionalità puoi promuovere presentazioni o tutorial che illustrino le funzionalità del servizio, le sue caratteristiche e gli sviluppi programmati oppure puoi rendere sempre disponibili i materiali di un evento.
+- LinkedIN è integrato con SlideShare (link al glossario), grazie a questa funzionalità puoi promuovere presentazioni o tutorial che       illustrino le funzionalità del servizio, le sue caratteristiche oppure puoi rendere sempre disponibili i materiali di un evento.
 
 
 YouTube
@@ -590,7 +576,7 @@ Le App di messaggistica istantanea (Whatsapp e Telegram)
 
 Grazie a strumenti come le app di messaggistica hai a disposizione uno strumento diretto per raggiungere il cittadino nel “luoghi” di conversazione quotidiana sul suo smartphone, diffondendo così le informazioni in modo semplice ed istantaneo.  Anytime, anywhere.
 
-Ricordati di promuovere le app che decidi di utilizzare i all’interno della tua strategia di comunicazione e di informare i cittadini sul trattamento dei dati personali previsto nella privacy policy della tua amministrazione (hyperlink alla parte sito).
+Ricordati di promuovere le app che decidi di utilizzare all’interno della tua strategia di comunicazione e di informare i cittadini sul trattamento dei dati personali previsto nella privacy policy della tua amministrazione (link alla parte sito).
 
 Whatsapp, ad esempio, può essere utilizzato per diffondere notizie, eventi e informazioni brevi sui servizi o come strumento di customer care. 
 
@@ -629,5 +615,4 @@ Associare Insights e Analytics per monitorare i risultati della comunicazione a 
 
 **POTRESTI**
 
-Usare i dati raccolti per fare storytelling del tuo servizio.
-
+Usare i dati raccolti per raccontare il tuo servizio, invogliando gli utenti a sentirsi parte di una comunità.
