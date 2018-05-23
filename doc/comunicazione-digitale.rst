@@ -119,7 +119,7 @@ I social media sono spazi di relazione che permettono sia la socializzazione e l
 
 Aumenta l’interazione e la partecipazione dei tuoi utenti sul tuo canale social per ottenere maggiore risonanza della tua promozione dei servizi.
 
-Ricorda che non tutti i social seguono le stesse logiche e dinamiche. Scegli tra Facebook, Twitter, Instagram, LinkedIn, Youtube in base al messaggio che vuoi diffondere e al target di riferimento.
+Ricorda che non tutti i social seguono le stesse logiche e dinamiche. Scegli tra Facebook, Twitter, Instagram, LinkedIN, Youtube in base al messaggio che vuoi diffondere e al target di riferimento.
 
 Definisci sempre una strategia per i social media che sia coerente con gli obiettivi di comunicazione della tua campagna, che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali della tua amministrazione. 
 
