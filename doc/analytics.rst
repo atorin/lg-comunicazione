@@ -6,14 +6,14 @@ Una lettura sistematica dei dati di Web analytics ti consente di capire quante p
 Dagli “insight” dei tuoi social puoi reperire dati preziosi sul comportamento online degli utenti (analisi del sentiment) e in base a questi  organizzare o ri-organizzare attività di comunicazione e promozione realmente tarate sui bisogni espressi.
 Puoi trovare questi dati negli “Insight” su Facebook e negli “Analytics” su Twitter.  
 
-**DEVI** 
+.. admonition:: DEVI
 
-Monitorare con continuità i dati delle pagine social per capire come indirizzare la programmazione. Condividere i risultati numerici con il gruppo di lavoro per attuare azioni correttive, coerenti con la strategia di comunicazione complessiva. 
+   Monitorare con continuità i dati delle pagine social per capire come indirizzare la programmazione. Condividere i risultati numerici con    il gruppo di lavoro per attuare azioni correttive, coerenti con la strategia di comunicazione complessiva. 
 
-**DOVRESTI**
+.. admonition:: DOVRESTI
 
-Associare Insights e Analytics per monitorare i risultati della comunicazione a tutto tondo. Ad esempio: verificando se una call to action in un post organico di Facebook si traduce in visite effettive al sito web o alla pagina di un servizio specifico, e se eventualmente sia necessario un investimento promozionale.
+   Associare Insights e Analytics per monitorare i risultati della comunicazione a tutto tondo. Ad esempio: verificando se una call to        action in un post organico di Facebook si traduce in visite effettive al sito web o alla pagina di un servizio specifico, e se              eventualmente sia necessario un investimento promozionale.
 
-**POTRESTI**
+.. admonition:: POTRESTI
 
-Usare i dati raccolti per raccontare il tuo servizio, invogliando gli utenti a sentirsi parte di una comunità.
+   Usare i dati raccolti per raccontare il tuo servizio, invogliando gli utenti a sentirsi parte di una comunità.
