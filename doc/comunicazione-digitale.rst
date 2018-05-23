@@ -121,7 +121,7 @@ Aumenta l’interazione e la partecipazione dei tuoi utenti sul tuo canale socia
 
 Ricorda che non tutti i social seguono le stesse logiche e dinamiche. Scegli tra Facebook, Twitter, Instagram, LinkedIn, Youtube in base al messaggio che vuoi diffondere e al target di riferimento.
 
-Definisci sempre una strategia per i social media (vedi glossario) che sia coerente con gli obiettivi di comunicazione della tua campagna, che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali della tua amministrazione. 
+Definisci sempre una strategia per i social media che sia coerente con gli obiettivi di comunicazione della tua campagna, che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali della tua amministrazione. 
 
 .. admonition:: DEVI
 
@@ -236,7 +236,7 @@ LinkedIN ti consente di promuovere il tuo servizio nelle community professionali
 
 .. admonition:: POTRESTI
 
-   LinkedIN è integrato con SlideShare (link al glossario), grazie a questa funzionalità puoi promuovere presentazioni o tutorial che      illustrino le funzionalità del servizio, le sue caratteristiche oppure puoi rendere sempre disponibili i materiali di un evento.
+   LinkedIN è integrato con SlideShare, grazie a questa funzionalità puoi promuovere presentazioni o tutorial che illustrino le funzionalità del servizio, le sue caratteristiche oppure puoi rendere sempre disponibili i materiali di un evento.
 
 
 YouTube
@@ -262,7 +262,7 @@ Le App di messaggistica istantanea (Whatsapp e Telegram)
 
 Grazie a strumenti come le app di messaggistica hai a disposizione uno strumento diretto per raggiungere il cittadino nel “luoghi” di conversazione quotidiana sul suo smartphone, diffondendo così le informazioni in modo semplice ed istantaneo.  Anytime, anywhere.
 
-Ricordati di promuovere le app che decidi di utilizzare all’interno della tua strategia di comunicazione e di informare i cittadini sul trattamento dei dati personali previsto nella privacy policy della tua amministrazione (link alla parte sito).
+Ricordati di promuovere le app che decidi di utilizzare all’interno della tua strategia di comunicazione e di informare i cittadini sul trattamento dei dati personali previsto nella privacy policy della tua amministrazione.
 
 Whatsapp, ad esempio, può essere utilizzato per diffondere notizie, eventi e informazioni brevi sui servizi o come strumento di customer care. 
 
