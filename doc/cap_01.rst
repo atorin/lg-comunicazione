@@ -239,7 +239,7 @@ Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amminis
 
 
 Gli strumenti della comunicazione
-======================================
+----------------------------------
 
 Il ruolo dei media: il digitale fa notizia.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
