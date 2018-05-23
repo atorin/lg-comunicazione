@@ -1,4 +1,4 @@
-# Linee Guida Coumunicazione
+# Linee guida per la promozione dei servizi digitali
 
 Le presenti linee guida attuano quanto stabilito XXX.
 
