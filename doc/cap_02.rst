@@ -73,17 +73,15 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
    Coinvolgere dei media partner o degli influencer che ti supportino nella diffusione ampliandone la portata.
    
    4. La comunicazione digitale per la promozione dei servizi.
-------------------------------------------------------------
+-------------------------------------------------------------
 
-Anche per l’informazione di servizio il cittadino “mette sul podio”  i canali di comunicazione digitali. In questi canali nasce, cresce e si rafforza la reputazione del tuo ente e dei servizi che offre, è fondamentale saperli gestire al meglio per creare un vero rapporto di fiducia e di dialogo tra cittadino a PA.
+Anche per l’informazione di servizio il cittadino “mette sul podio” i canali di comunicazione digitale. In questi canali nasce, cresce e si rafforza la reputazione del tuo ente e dei servizi che offre, è fondamentale saperli gestire al meglio per creare un vero rapporto di fiducia e di dialogo tra cittadino e PA.
 
 .. admonition:: DEVI
  
-   Prevedere una strategia di comunicazione digitale del servizio che sia coerente con la strategia e la comunicazione integrata            dell’ente e  in linea con gli altri canali di comunicazione.
+   - Prevedere una strategia di comunicazione digitale del servizio che sia coerente con la strategia e la comunicazione integrata            dell’ente e  in linea con gli altri canali di comunicazione.
  
-.. admonition:: DEVI
- 
-   Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promuovere dei tuoi servizi digitali. Il piano          editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di            comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di      scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della        mensa etc).
+   - Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promozione dei tuoi servizi digitali. Il piano          editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di            comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di      scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della        mensa etc).
 
 .. admonition:: DOVRESTI
 
@@ -97,8 +95,15 @@ Anche per l’informazione di servizio il cittadino “mette sul podio”  i can
 Il sito web istituzionale.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale    per presentare le tue attività e il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di      organizzare sempre i contenuti in modo chiaro, semplice e trasparente.
-Il sito è fondamentale per informare l’utente e descrivere attività e servizi, promuovere le novità a essi collegate con notizie, focus, infografiche, materiali di approfondimento. Ricordati di trovare sempre un equilibrio tra uno stile di comunicazione che catturi l’attenzione del lettore e gli approfondimenti sulle caratteristiche e delle funzionalità dei servizi.
+Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale    per presentare le tue attività e al tempo stesso il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di organizzare i contenuti in modo chiaro, semplice e trasparente.
+
+Ricordati di:
+
+- organizzare i contenuti in modo chiaro, semplice e trasparente. Il sito è fondamentale per informare l’utente e descrivere attività e   servizi, promuovere le novità a essi collegate con notizie, focus, infografiche, materiali di approfondimento;
+
+- trovare sempre un equilibrio tra uno stile di comunicazione che catturi l’attenzione del lettore e gli approfondimenti sulle             caratteristiche e delle funzionalità dei servizi.
+
+- prevedere conla "privacy policy" le  modalità di gestione del sito in riferimento al trattamento dei dati personali degli utenti         visitatori che lo consultano, di richiamarla nella tua "Social Media Policy" e di aggiungere (nella SMP) come verranno richiesti e       trattati i dati personali degli utenti che useranno i tuoi canali di promozione (ad es: iscritti alla newsletter, che usano Whatsapp e   Telegram).
 
 .. admonition:: DEVI
  
