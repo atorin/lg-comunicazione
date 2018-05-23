@@ -50,8 +50,8 @@ Glossario
       
 .. glossary::
  
-   Citizen/Customer Relationship Management (CRM): l’insieme degli strumenti e delle procedure per la gestione dei rapporti con il
-      cliente.
+   Citizen/Customer Relationship Management (CRM):
+      l’insieme degli strumenti e delle procedure per la gestione dei rapporti con il cliente.
     
 .. glossary::
 
