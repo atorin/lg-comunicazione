@@ -67,7 +67,7 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
 
    - Prevedere uno streaming dell’evento da diffondere attraverso i tuoi canali digitali cercando sempre di interagire con gli utenti        collegati in remoto.
    
-   - Invitare a partecipare anche le amministrazioni vicine, o comunque tutti i soggetti interessati dal lancio del tuo servizio in        modo da avviare percorsi di collaborazione e condivisione delle esperienze.
+   - Invitare a partecipare anche le amministrazioni vicine, o comunque tutti i soggetti interessati dal lancio del tuo servizio in          modo da avviare percorsi di collaborazione e condivisione delle esperienze.
 
 .. admonition:: POTRESTI
  
