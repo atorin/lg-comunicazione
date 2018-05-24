@@ -17,3 +17,7 @@ Puoi trovare questi dati negli “Insight” su Facebook e negli “Analytics”
 .. admonition:: POTRESTI
 
    Usare i dati raccolti per raccontare il tuo servizio, invogliando gli utenti a sentirsi parte di una comunità.
+   
+.. discourse::
+   :topic_identifier: 3406
+   
